@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this corpus or code, please cite the paper and this archived release."
+title: "Bridging the Resource Gap: A Multi-Paradigm Benchmark for Named Entity Recognition in Low Resource Language"
+type: dataset
+authors:
+Wahab Khan1,2 ,Abdullah Khan1,  Mazliham Bin Mohd Su'ud2 , Aurangzeb Khan1,2, Muhammad Mansoor Alam2,3 , Rafiul Haq4 , Ihsanullah Khan2
+1Faculty of Computing and Informatics, MMU Cyberjaya Malaysia
+2Department of Computer Science, University of Science and Technology, Bannu, PK 28100
+3Faculty of Computing, Riphah International University Islamabad, Pakistan
+4College of Intelligence and Computing, Tianjin University, Tianjin, 300350 China
+
+version: "1.0.0"
+date-released: "[YYYY-MM-DD]"
+license: "[licence identifier]"
+repository-code: "[https://github.com/USER/REPO]"
+doi: "[10.5281/zenodo.XXXXXXX]"

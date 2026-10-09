@@ -1,0 +1,698 @@
+﻿sentence_index,orig_id,problem,words,tags
+0,Sentence:1,tok 6: B never closed (next entity starts),افغانستان او پاکستان کې سېلابونه: په خوست ژوب او میدان وردګو کې شپږ تنه مړه شوي,S-LOCATION O S-LOCATION O O O B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O S-NUMBER O O O
+16,Sentence:17,tok 0: B never closed (next entity starts) | tok 24: B never closed (next entity starts) | tok 25: B never closed (next entity starts),ليلا چې پخوا يې سينډويچ پلورل، درې کاله وړاندې یې خپل کور پرېښود او له کردستان کارګر ګوند سره يوځای شوه. دغه ډله د ترکيې امريکا بریتانيې او اروپايي اتحاديې له لوري ترهګر سازمان بلل شوی دی. لیلا د عراق او ايران تر منځ پوله کې د قندیل غرونو ته ولاړه.,B-PERSON O O O O O S-NUMBER O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O B-LOCATION B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O O O O O O O S-PERSON O S-LOCATION O S-LOCATION O O O O O B-LOCATION E-LOCATION O O
+18,Sentence:19,tok 0: B never closed (sentence ends),"ليلا چې نوم مو ور بدل کړی، ځکه له یادې ډلې د انتقام وېره لري، وايي: کله	O
+Sentence:19	چې	O
+Sentence:19	مې	O
+Sentence:19	د	O
+Sentence:19	دوی	O
+Sentence:19	د	O
+Sentence:19	دغه	O
+Sentence:19	اعلان	O
+Sentence:19	خبره	O
+Sentence:19	واورېده،	O
+Sentence:19	ډېر	O
+Sentence:19	خوشحاله	O
+Sentence:19	شوم.",B-PERSON O O O O O O O O O O O O O O O O
+24,Sentence:25,tok 10: B never closed (sentence ends),دغه احتیاط داسې مهال دی چې د اسرائیلو لومړي وزیر بنیامین نتنیاهو د هغه د وژلو امکان نه دی رد کړی. که رښتیا هم هغه له پټنځایه راووځي، نو به د مرګ او ویجاړۍ منظرې وویني.,O O O O O O O S-LOCATION B-DESIGNATION E-DESIGNATION B-PERSON O O O O O O O O O O O O O O O O O O O O O O O O O
+26,Sentence:27,tok 9: B never closed (next entity starts),د ایران او اسرائیلو د جګړې ورځو کې، د جون له ۱۲ تر ۲۴</DATE>، ایراني رسنیو اسرائیلو ته د جاسوسۍ په تور د پنځو افغانانو د نیولو خبر ورکړ. دا مهال د هغو افغانانو نیول لا ډېر چټک شوي چې په ایران کې د استوګنې اسناد نه لري.,O S-LOCATION O S-LOCATION O O O O O B-DATE O O O O O O S-LOCATION O O O O O O S-NUMBER S-LOCATION O O O O O O O O S-LOCATION O O O O O O O S-LOCATION O O O O O O
+43,Sentence:44,tok 6: B never closed (sentence ends),ترکیه کې د طالبانو حکومت نوی سفیر</DESIGNATION>: د ملګرو لټون او نړیوالې ديپلوماسۍ کې د ورګډېدو هڅې,S-LOCATION O O B-ORGANIZATION E-ORGANIZATION O B-DESIGNATION O O O O O O O O O O
+71,Sentence:72,tok 6: B never closed (next entity starts),افغانستان او پاکستان کې سېلابونه: په خوست ژوب او میدان وردګو کې شپږ تنه مړه شوي,S-LOCATION O S-LOCATION O O O B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O S-NUMBER O O O
+74,Sentence:75,tok 29: B never closed (next entity starts),د ژوب مرستیال کمشنر نوید عالم په کوټه کې د بي بي سي خبریال محمد کاظم ته د ټیلیفون له لارې وویل، دغه کسان په یوه ګاډي کې له ژوب</LOCATION>ه د پنجاب ملتان ته پر لاره وو، چې په سلیازه تفریحي سیمه کې دمې ته تم شوي او په سېلاب لاهو شوي.,O S-LOCATION B-DESIGNATION E-DESIGNATION B-PERSON E-PERSON O S-LOCATION O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O B-PERSON E-PERSON O O O O O O O O O O O O O B-LOCATION O S-LOCATION S-LOCATION O O O O O O S-LOCATION B-LOCATION E-LOCATION O O O O O O O O O O
+78,Sentence:79,tok 6: B never closed (next entity starts) | tok 7: B never closed (next entity starts) | tok 8: B never closed (next entity starts),د بلوچستان مرکز کوټې په ګډون کلات خضدار لسبیله سوراب او بارکان سیمو کې هم بارانونه شوي، خو له ژوب پرته نورو سیمو کې د سر زیان اوښتو رپوټونه نه دي ورکړل شوي.,O S-LOCATION S-DESIGNATION S-LOCATION O O B-LOCATION B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O O O O O O S-LOCATION O O O O O O O O O O O O O
+80,Sentence:81,tok 12: B never closed (next entity starts),د رسنیو د راپورونو له مخې یوه کورنۍ چې د پنجاب له سیالکوټ</LOCATION>ه سوات ته د تفریح لپاره تللې وه، د زورورو سېلابونو څپو کې غرقه شوې.,O O O O O O O O O O S-LOCATION O B-LOCATION S-LOCATION O O O O O O O O O O O O O
+84,Sentence:85,tok 8: B never closed (next entity starts) | tok 9: B never closed (next entity starts),"د میدان وردګو ولایت ځايي چارواکو ویلی، په نرخ چک دایمیرداد او جغتو ولسوالیو کې سېلابونو لسګونه جریبه کرنیزې ځمکې او بڼونه له منځه وړي دي. دغه ولایت کې د طالبانو حکومت د پېښو پر وړاندې د مبارزې او چمتووالي رییس مولوي فیض الله جلالي د باختر دولتي خبري اژانس ته ویلي <LOCATION>په	O
+Sentence:85	نرخ	O
+Sentence:85	ولسوالۍ	E_LOCATION
+Sentence:85	کې	O
+Sentence:85	د	O
+Sentence:85	سېلابونو	O
+Sentence:85	له	O
+Sentence:85	امله	O
+Sentence:85	یو	S_NUMBER
+Sentence:85	تن	O
+Sentence:85	خپل	O
+Sentence:85	ژوند	O
+Sentence:85	له	O
+Sentence:85	لا	O
+Sentence:86	په	O
+Sentence:86	لوګر	S_LOCATION
+Sentence:86	کې	O
+Sentence:86	هم	O
+Sentence:86	د	O
+Sentence:86	سختو	O
+Sentence:86	سېلابونو	O
+Sentence:86	د	O
+Sentence:86	راوتلو	O
+Sentence:86	ویل	O
+Sentence:86	شوي.	O
+Sentence:86	پر	O
+Sentence:86	خواله	O
+Sentence:86	رسنیو	O
+Sentence:86	له	O
+Sentence:86	مرستندویه	O
+Sentence:86	بنسټونو	O
+Sentence:86	او	O
+Sentence:86	حکومتي	B_ORGANIZATION
+Sentence:86	ادارو	E_ORGANIZATION
+Sentence:86	غوښتل	O
+Sentence:86	شوي	O
+Sentence:86	چې	O
+Sentence:86	ځپل	O
+Sentence:86	شویو	O
+Sentence:86	سیمو	S_LOCATION
+Sentence:86	کې	O
+Sentence:86	دې	O
+Sentence:86	د	O
+Sentence:86	خلکو	O
+Sentence:86	لاس	O
+Sentence:86	نیوی	O
+Sentence:86	وکړي.	O
+Sentence:86	لوګر	S_LOCATION
+Sentence:86	کې	O
+Sentence:86	د	O
+Sentence:86	طالبانو	B_ORGANIZATION
+Sentence:86	حکومت	E_ORGANIZATION
+Sentence:86	ولایتي	B_DESIGNATION
+Sentence:86	ویاند</des	O
+Sentence:87	په	O
+Sentence:87	سویل	B_LOCATION
+Sentence:87	ختیځ	O
+Sentence:87	ولایت	O
+Sentence:87	خوست	E_LOCATION
+Sentence:87	کې	O
+Sentence:87	هم	O
+Sentence:87	د	O
+Sentence:87	سېلابونو	O
+Sentence:87	له	O
+Sentence:87	امله	O
+Sentence:87	د	O
+Sentence:87	زیان	O
+Sentence:87	اوښتو	O
+Sentence:87	رپوټونه	O
+Sentence:87	ورکړل	O
+Sentence:87	شوي.	O
+Sentence:87	په	O
+Sentence:87	خوست	S_LOCATION
+Sentence:87	کې	O
+Sentence:87	د	O
+Sentence:87	طالبانو	B_ORGANIZATION
+Sentence:87	حکومت	E_ORGANIZATION
+Sentence:87	د	O
+Sentence:87	ولایتي	B_ORGANIZATION
+Sentence:87	ادارې	E_ORGANIZATION
+Sentence:87	وياند	S_DESIGNATION
+Sentence:87	مستغفر	B_PERSON
+Sentence:87	ګربز	E_PERSON
+Sentence:87	ویلي	O
+Sentence:87	په	O
+Sentence:87	د	O
+Sentence:87	افغانستان	S_LOCATION
+Sentence:87	په	O
+Sentence:87	ختیځ	B_LOCATION
+Sentence:87	ولایت	O
+Sentence:87	ننګرهار	E_LOCATION
+Sentence:87	کې	O
+Sentence:87	هم	O
+Sentence:87	چارواکو	S_DESIGNATION
+Sentence:87	او	O
+Sentence:87	ولسي	O
+Sentence:87	خلکو	O
+Sentence:87	د	O
+Sentence:87	سېلابونو	O
+Sentence:87	له	O
+Sentence:87	امله	O
+Sentence:87	د	O
+Sentence:87	زیان	O
+Sentence:87	اوښتو	O
+Sentence:87	خبره	O
+Sentence:87	کړې.	O
+Sentence:88	د	O
+Sentence:88	لعلپورې	S_LOCATION
+Sentence:88	ولسوال	S_DESIGNATION
+Sentence:88	لعل	B_PERSON
+Sentence:88	خاتم	O
+Sentence:88	قرار	E_PERSON
+Sentence:88	ویلي	O
+Sentence:88	د",O B-LOCATION I-LOCATION E-LOCATION B-DESIGNATION E-DESIGNATION O O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION S-LOCATION O O S-NUMBER O O O O O O O O O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O S-DESIGNATION B-PERSON I-PERSON I-PERSON E-PERSON O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O
+85,Sentence:88,tok 3: B never closed (next entity starts) | tok 4: B never closed (next entity starts),"دغه ولسوالۍ په ګلډاک ګرداوي شاکوټي او چکنور سیمو کې د سختو اورښتو او سېلابونو له امله ۵۰۰ جریبه کرنیزې ځمکې او کروندې ترڅنګ استنادي دېوالونه، او فرعي سړکونه هم وېجاړې او یو شمېر خلکو ته ګڼ مالي زیانونه اوښتي دي.""",O S-LOCATION O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION S-LOCATION O O O O O O O O S-NUMBER O O O O O O O O O O O O O O O O O O O O O O O
+87,Sentence:90,tok 0: B never closed (next entity starts),اقلیمي بدلون د سېلابونو د راوتلو یو مهم دلیل یادیږي او د ژغورنې د وسیلو کمی او لږ امکانات ډېر کله د پراخو ویجاړیو لامل کېږي.,B-DESIGNATION O O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O
+89,Sentence:92,tok 27: B never closed (sentence ends),د خیبر پښتونخوا په سوات کې مرستندویان وايي، په سوات سیند کې د ډوبېدو له کبله نهه کسان مړه شوي، ۶ کسان بې درکه دي او د ۱۵</numb,O B-LOCATION E-LOCATION O S-LOCATION O S-DESIGNATION O O S-LOCATION S-LOCATION O O O O O S-NUMBER O O O S-NUMBER O O O O O O B-NUMBER
+94,Sentence:97,tok 11: B never closed (next entity starts),په رپوټ کې ویل شوي، پي ډي ايم اې اداره د پېښور چارسدې او نوښار سیمو اړوند چارواکو ته د سملاسي احتیاطي تدبیرونو کولو لارښوونه شوې، چې د احتمالي زیان اوښتو مخه ون,O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O B-LOCATION S-LOCATION O S-LOCATION S-LOCATION O S-DESIGNATION O O O O O O O O O O O O O O O
+102,Sentence:105,tok 6: B never closed (next entity starts),افغانستان او پاکستان کې سېلابونه: په خوست ژوب او میدان وردګو کې شپږ تنه مړه شوي,S-LOCATION O S-LOCATION O O O B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O S-NUMBER O O O
+110,Sentence:113,tok 0: B never closed (next entity starts),لیوناردو ديکپریو اشر او ایوانکا ټرمپ له هغو مشهورو کسانو وو، چې په دې مراسمو کې یې برخه درلوده، چې د پنجشنبه او جمعه ورځو د ایټالیا په دې ښار کې ترسره شول.,B-PERSON O S-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O O O O S-DATE O S-DATE O O S-LOCATION O O O O O O
+121,Sentence:124,tok 33: E without matching B | tok 35: B never closed (next entity starts),په دغه موده کې د لوی شمېر بريدونو مسولیت د تحريک طالبان پاکستان او د ځينو پړه بيا د د پاکستان د شخړو او امنيتي څېړونو اداره د رپوټ له مخې (<DATE>د ۲۰۲۱ اګسټ تر ۲۰۲۳ کال اګسټه</DATE>) پاکستان کې وسله وال بريدونه شپېته سلنه ډېر شوي وو.,O O O O O B-NUMBER E-NUMBER O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O E-DATE O B-DATE O O S-LOCATION O B-DESIGNATION I-DESIGNATION E-DESIGNATION B-NUMBER E-NUMBER O O O
+123,Sentence:126,tok 1: B never closed (next entity starts),د اروپا ملتونو فوټبال غوره لیګ</ORGANIZATION>: پرتګال اسپانیا ته پایلوبه کې له ماتې ورکولو وروسته اتلولي وګټله,O B-ORGANIZATION O O O O S-LOCATION S-LOCATION O O O O O O O S-DESIGNATION O
+133,Sentence:136,tok 5: B never closed (next entity starts),د ملګرو ملتونو اټومي ادارې مشر</DESIGNATION>: ایران کولی شي د څو میاشتو موده کې د اټومي وسلو لپاره یورانیم بډایه کړي,O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION B-DESIGNATION S-LOCATION O O O B-TIME I-TIME E-TIME O O B-DESIGNATION E-DESIGNATION O O O O
+135,Sentence:138,tok 0: B never closed (next entity starts),کرېکټ</DESIGNATION>: افغانستان د شل اوریزو لوبو درجه بندۍ کې له بنګله دېش مخکې شو,B-DESIGNATION S-LOCATION O B-DESIGNATION I-DESIGNATION I-DESIGNATION I-DESIGNATION E-DESIGNATION O O B-LOCATION E-LOCATION O O
+138,Sentence:141,tok 0: B never closed (next entity starts) | tok 1: B never closed (next entity starts) | tok 2: B never closed (next entity starts) | tok 3: B never closed (next entity starts) | tok 4: B never closed (next entity starts) | tok 5: B never closed (next entity starts),هند اسټرالیا انګلنډ نیوزیلنډ ویسټ‌انډیز سویلي افریقا شري لنکا او پاکستان لوبډلو,B-LOCATION B-LOCATION B-LOCATION B-LOCATION B-LOCATION B-LOCATION O B-LOCATION E-LOCATION O S-LOCATION S-DESIGNATION
+144,Sentence:147,tok 27: B never closed (sentence ends),له دې مخکې یو بل افغان لوبغاړی عظمت الله عمرزی د کرېکټ نړیوالې شورا له لوري د یو ورځنیو لوبو ټولچارو (الراونډرانو) په تازه درجه بندۍ کې لومړی</numbe,O O O O O S-LOCATION S-DESIGNATION B-PERSON I-PERSON E-PERSON O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O B-DESIGNATION I-DESIGNATION I-DESIGNATION I-DESIGNATION E-DESIGNATION O O O O O B-NUMBER
+153,Sentence:156,tok 0: B never closed (next entity starts),کرېکټ</DESIGNATION>: افغانستان د ټېسټ لوبو درجه بندۍ کې له بنګله دېش مخکې شو,B-DESIGNATION S-LOCATION O B-DESIGNATION I-DESIGNATION I-DESIGNATION E-DESIGNATION O O B-LOCATION E-LOCATION O O
+154,Sentence:157,tok 0: B never closed (next entity starts),کرېکټ</DESIGNATION>: افغانستان په نړیوالو درجه بندیو کې په یو ورځنیو لوبو کې اتم مقام ګټلی.,B-DESIGNATION S-LOCATION O B-DESIGNATION I-DESIGNATION E-DESIGNATION O O B-DESIGNATION I-DESIGNATION E-DESIGNATION O S-NUMBER O O
+171,Sentence:174,tok 41: B never closed (sentence ends),بانجاني رنګه خولۍ هغه توپ اچوونکي ته ور په سر کېږي چې ډېرې وېکټې ترلاسه یا ډېر لوبغاړي وسوځوي. دا خولۍ د هندي لوبغاړي پراسېد کرېشنا پر سر وه چې په ۱۴ لوبو کې یې ۲۳ لوبغاړي سوځولي وو خو په پر,B-DESIGNATION I-DESIGNATION E-DESIGNATION O B-DESIGNATION E-DESIGNATION O O O O O O O S-DESIGNATION O O O S-DESIGNATION O O S-DESIGNATION O B-PERSON I-PERSON I-PERSON E-PERSON O O O O O S-NUMBER S-DESIGNATION O O S-NUMBER S-DESIGNATION O O O O B-DATE
+197,Sentence:200,tok 2: B never closed (next entity starts),"د <ORGANIZATION>سټیل	O
+Sentence:200	ډوم</ORGANIZATION> هوايي دفاع سیسټم چې په ترکیې کې له داخلي ټېکنالوژۍ جوړ شوی، د <DESIGNATION>مدغمې	O
+Sentence:200	معمارۍ</DESIGNATION> په توګه معرفي شوی دی.",O O B-DESIGNATION O O O O S-LOCATION O O O O O O O O O O O O O
+199,Sentence:202,tok 3: B never closed (sentence ends),د ترکیې ولسمشر رجب طیب اردوغان,O S-LOCATION S-DESIGNATION B-PERSON O O
+208,Sentence:232,tok 0: B never closed (next entity starts),امریکايي هارون ایسټین چې د دفاعي هوايي چارو,B-PERSON O O O O B-DESIGNATION I-DESIGNATION E-DESIGNATION
+212,Sentence:236,tok 2: B never closed (sentence ends),د اېس-<NUMBER>۴۰۰ توغندیو دفاعي سیسټم,O S-ORGANIZATION B-DESIGNATION O O
+227,Sentence:256,tok 3: B never closed (sentence ends),چې ټرمپ د اوربند</designati,O S-PERSON O B-DESIGNATION
+236,Sentence:265,tok 0: B never closed (next entity starts),مېندې پلرونه وايي،,B-DESIGNATION S-DESIGNATION O
+265,Sentence:294,tok 2: B never closed (next entity starts),د خطرونو سوداګر</DESIGNATION>: ولې د عبدالقدیر خان نوم,O O B-DESIGNATION O O B-PERSON E-PERSON O
+297,Sentence:327,tok 4: B never closed (next entity starts),چې په پټه یې ایران شمالي کوریا او لېبیا ته,O O O O B-LOCATION B-LOCATION E-LOCATION O S-LOCATION O
+310,Sentence:340,tok 6: B never closed (sentence ends),هغه مهال چې لېبیا له خپل اټومي پروګرام</DESIGNATION>ه لاس پر سر شوه،,O O O S-LOCATION O O B-DESIGNATION O O O O O
+319,Sentence:349,tok 0: B never closed (next entity starts),ډاکتر قدیر خان ایران ته د,B-PERSON O O S-LOCATION O O
+325,Sentence:355,tok 0: B never closed (next entity starts),شیخ رشید اسوشېټېډ پریس خبري اژانس,B-PERSON O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION
+352,Sentence:450,tok 0: B never closed (next entity starts),پاکستان ایران او هند پر,B-LOCATION S-LOCATION O S-LOCATION O
+433,Sentence:541,tok 9: B never closed (sentence ends),احمدي مسلمانان باوري دي چې د دې ډلې بنسټګر حضرت میرزا غلام احمد مهدي دی.,O O O O O O O O O B-PERSON O O O O O
+462,Sentence:573,tok 0: B never closed (sentence ends),فزیک ایمان او ملي هویت,B-DESIGNATION O O O O
+530,Sentence:658,tok 0: B never closed (sentence ends),اندرا ګاندي</PERSON>. د هغې زعفراني ساړي په وینو,B-PERSON O O O O O O O
+609,Sentence:739,tok 12: B never closed (next entity starts),"د ملګرو ملتونو سرمنشي د سیاسي چارو او سولې برخه کې مرستیاله روزمري ډیکارلو چې د افغانستان په اړه د دوحې د روانې درېیمې غونډې مشري کوي، د غونډې د لومړۍ ورځې له خبرو وروسته پر خپل اېکس 'ټوېټر' لیکلي چې د	O
+Sentence:739	افغانستان	S_LOCATION
+Sentence:739	لپاره	O
+Sentence:739	د	O
+Sentence:739	ځانګړو	O
+Sentence:739	استازو	O
+Sentence:739	درېیمه	O
+Sentence:739	ناسته	O
+Sentence:739	ګټوره	O
+Sentence:739	پیل	O
+Sentence:739	شوه.	O
+Sentence:740	دا	O
+Sentence:740	لومړی	O
+Sentence:740	ځل	O
+Sentence:740	دی	O
+Sentence:740	چې	O
+Sentence:740	د	O
+Sentence:740	نړیوالې	O
+Sentence:740	ټولنې	O
+Sentence:740	او	O
+Sentence:740	طالبانو	S_ORGANIZATION
+Sentence:740	ترمنځ	O
+Sentence:740	دا	O
+Sentence:740	ډول	O
+Sentence:740	مخامخ	O
+Sentence:740	غونډه	O
+Sentence:740	کېږي.	O
+Sentence:740	په	O
+Sentence:740	ډېرو	O
+Sentence:740	برخو	O
+Sentence:740	کې	O
+Sentence:740	د	O
+Sentence:740	افغانستان	S_LOCATION
+Sentence:740	له	O
+Sentence:740	خلکو	O
+Sentence:740	سره	O
+Sentence:740	د	O
+Sentence:740	مرستې	O
+Sentence:740	لپاره	O
+Sentence:740	د	O
+Sentence:740	اصولي	O
+Sentence:740	تعامل	O
+Sentence:740	په	O
+Sentence:740	تمه	O
+Sentence:740	یو	O
+Sentence:740	او	O
+Sentence:740	موږ	O
+Sentence:740	یې	O
+Sentence:740	له	O
+Sentence:740	قطر	S_LOCATION
+Sentence:740	نه	O
+Sentence:740	د	O
+Sentence:740	ملاتړ	O
+Sentence:740	منندوی	O
+Sentence:740	یو.	O
+Sentence:741	په	O
+Sentence:741	ورته	O
+Sentence:741	وخت	O
+Sentence:741	کې،	O
+Sentence:741	د	O
+Sentence:741	قطر	S_LOCATION
+Sentence:741	د	O
+Sentence:741	بهرنیو	O
+Sentence:741	چارو	O
+Sentence:741	وزارت	O
+Sentence:741	کې	O
+Sentence:741	د	O
+Sentence:741	دولت	O
+Sentence:741	وزیر	O
+Sentence:741	ډاکټر	B_PERSON
+Sentence:741	محمد	O
+Sentence:741	بن	O
+Sentence:741	عبدالعزیز	O
+Sentence:741	بن	O
+Sentence:741	صالح	O
+Sentence:741	الخلیفي	E_PERSON
+Sentence:741	د	O
+Sentence:741	افغانستان	S_LOCATION
+Sentence:741	په	O
+Sentence:741	اړه	O
+Sentence:741	د	O
+Sentence:741	ځانګړو	O
+Sentence:741	استازو	O
+Sentence:741	د	O
+Sentence:741	درېیمې	O
+Sentence:741	ناستې	O
+Sentence:741	پرانیستغونډه	O
+Sentence:741	کې	O
+Sentence:741	له	O
+Sentence:741	ګډون	O
+Sentence:741	وروسته	O
+Sentence:741	ویلي	O
+Sentence:741	د	O
+Sentence:741	غونډې	O
+Sentence:741	موخه	O
+Sentence:741	په	O
+Sentence:741	افغانستان	S_LOCATION
+Sentence:741	کې	O
+Sentence:741	د	O
+Sentence:741	ثبت	O
+Sentence:741	او	O
+Sentence:741	امنیت	O
+Sentence:741	ټینګول	O
+Sentence:741	دي.	O
+Sentence:742	نوموړي	O
+Sentence:742	دا	O
+Sentence:742	هم	O
+Sentence:742	ویلي	O
+Sentence:742	قطر	S_LOCATION
+Sentence:742	ژمن	O
+Sentence:742	دی	O
+Sentence:742	چې	O
+Sentence:742	د	O
+Sentence:742	تېرو	O
+Sentence:742	غونډو	O
+Sentence:742	په	O
+Sentence:742	تعقیب	O
+Sentence:742	په	O
+Sentence:742	افغانستان	S_LOCATION
+Sentence:742	کې	O
+Sentence:742	له	O
+Sentence:742	سرپرست	O
+Sentence:742	حکومت	O
+Sentence:742	سره	O
+Sentence:742	د	O
+Sentence:742	مستقیم	O
+Sentence:742	تعامل	O
+Sentence:742	په	O
+Sentence:742	رڼا	O
+Sentence:742	کې	O
+Sentence:742	ګڼې	O
+Sentence:742	ژمنې	O
+Sentence:742	پیاوړې	O
+Sentence:742	کړي،	O
+Sentence:742	د	O
+Sentence:742	افغانانو	O
+Sentence:742	کړاو	O
+Sentence:742	کم	O
+Sentence:742	او	O
+Sentence:742	د	O
+Sentence:742	مختلفو	O
+Sentence:742	ننګونو	O
+Sentence:742	په	O
+Sentence:742	حل‌لاره	O
+Sentence:742	موندلو	O
+Sentence:742	او	O
+Sentence:742	راتلونکو	O
+Sentence:742	فرصتونو	O
+Sentence:742	کې	O
+Sentence:742	د	O
+Sentence:742	پانګونې	O
+Sentence:742	له	O
+Sentence:742	لارې	O
+Sentence:742	له	O
+Sentence:742	دوی	O
+Sentence:742	سره	O
+Sentence:742	مرسته	O
+Sentence:742	وشي.	O
+Sentence:743	په	O
+Sentence:743	دوحه	S_LOCATION
+Sentence:743	کې	O
+Sentence:743	د	O
+Sentence:743	افغانستان	S_LOCATION
+Sentence:743	په	O
+Sentence:743	اړه	O
+Sentence:743	د	O
+Sentence:743	ملګرو	B_ORGANIZATION
+Sentence:743	ملتونو	E_ORGANIZATION
+Sentence:743	درېیمه	O
+Sentence:743	غونډه	O
+Sentence:743	پیل	O
+Sentence:743	شوې	O
+Sentence:743	او	O
+Sentence:743	د	O
+Sentence:743	طالبانو	S_ORGANIZATION
+Sentence:743	حکومت	O
+Sentence:743	په	O
+Sentence:743	استازولي	O
+Sentence:743	د	O
+Sentence:743	ورغلي	O
+Sentence:743	پلاوي‌	O
+Sentence:743	مشر	O
+Sentence:743	ذبیح‌الله	B_PERSON
+Sentence:743	مجاهد	E_PERSON
+Sentence:743	هم	O
+Sentence:743	دې	O
+Sentence:743	غونډې	O
+Sentence:743	ته	O
+Sentence:743	وینا	O
+Sentence:743	کړې	O
+Sentence:743	ده.	O
+Sentence:744	هغه	O
+Sentence:744	وروسته	O
+Sentence:744	رسنیو	O
+Sentence:744	ته	O
+Sentence:744	وویل	O
+Sentence:744	چې	O
+Sentence:744	مجلس	O
+Sentence:744	ډېر	O
+Sentence:744	ښه	O
+Sentence:744	پر	O
+Sentence:744	مخ	O
+Sentence:744	ولاړ،	O
+Sentence:744	افغانستان	S_LOCATION
+Sentence:744	خپل	O
+Sentence:744	موقف	O
+Sentence:744	پکې	O
+Sentence:744	بیان	O
+Sentence:744	کړ	O
+Sentence:744	او	O
+Sentence:744	د	O
+Sentence:744	ګډونوالو	O
+Sentence:744	دریځونه	O
+Sentence:744	هم	O
+Sentence:744	واورېدل	O
+Sentence:744	شول.	O
+Sentence:745	نوموړي	O
+Sentence:745	زیاته	O
+Sentence:745	کړه	O
+Sentence:745	چې	O
+Sentence:745	د	O
+Sentence:745	ناستې	O
+Sentence:745	ګډونوالو	O
+Sentence:745	ته	O
+Sentence:745	یې	O
+Sentence:745	وویل،	O
+Sentence:745	افغانستان	S_LOCATION
+Sentence:745	له	O
+Sentence:745	نړۍ	O
+Sentence:745	سره	O
+Sentence:745	د	O
+Sentence:745	اړیکو	O
+Sentence:745	پلوي	O
+Sentence:745	دی،	O
+Sentence:745	هغه",O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O B-PERSON O O O S-LOCATION O O O S-LOCATION O O O O O O O O O O O O O O O O O O O O O
+617,Sentence:752,tok 9: B never closed (next entity starts) | tok 10: B never closed (next entity starts) | tok 11: B never closed (next entity starts) | tok 12: B never closed (next entity starts),همدا راز د رسمي غونډې له پیله مخکې د هند بریتانیا اندونیزیا قزاقستان سعودي عرب او ځينو نورو هېوادونو له استازو سره هم د طالبانو پلاوي ناستې پلان دي.,O O O O O O O O O B-LOCATION B-LOCATION B-LOCATION B-LOCATION B-LOCATION E-LOCATION O O O O O O O O O S-ORGANIZATION O O O O
+667,Sentence:802,tok 12: B never closed (next entity starts),"د دې سازمان په نوم تر سره شوي بریدونه اوس مهال په افریقا</LOCATION>, اروپا او منځني ختیځ کې تر ټولو زیات ترسره کېږي او د خراسان په ولایت کې د سازمان څانګه یې تر ټولو خطرناکه ګڼل کېږي، ځکه چې په پراخه کچه د هغو بریدونو د پړې ګوته ورته نیول کېږي چې تېر کال یې د روسیې پلازمېنه مسکو او د ایران په کرمان کې سلګونه کسان ووژل او ټپیان کړل.",O O O O O O O O O O O O B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O O O O O O O O S-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O S-LOCATION O S-LOCATION O O S-LOCATION O S-LOCATION O O O O O O O
+676,Sentence:811,tok 27: B never closed (next entity starts),"د افریقا په ځینو برخو کې، د ګډوډۍ، نهیلۍ او ناسم مدیریت لوی جیبونه شته او په وروستیو کلونو کې، د افریقايي	O
+Sentence:811	کمربند هېوادونه - په ځانګړې توګه مالي نیجر او بورکینا فاسو - د پوځي کودتا شاهدان دي، چې په دوی کې د بې ثباتۍ زیاتوالي لامل شوي.",O S-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O
+678,Sentence:813,tok 16: B never closed (next entity starts),"اسلامي	O
+Sentence:813	دولت اوس مهال په افریقا کې پنځه څانګې لري، چې د ولایتونو په نوم یادېږي، په لوېدیځه افریقا د چاد جھیل سیمه، د کانګو دیموکراتیک جمهوریت او شمالي موزمبیق کې فعالې دي.",O O O O S-LOCATION O O O O O O O O O O O B-LOCATION O O B-LOCATION E-LOCATION O O B-LOCATION I-LOCATION E-LOCATION O O S-LOCATION O O O
+702,Sentence:837,tok 28: E without matching B,تر اوسه رسمآ کومې ډلې د دغو بریدونو مسوولیت نه دی منلی. ګوزا ښار په ۲۰۱۴ کال کې د بوکو حرام لاس ته کیوتی، خو یو کال وروسته (<DATE>۲۰۱۵ کال) ترې د نایجېریا ځواکونو بېرته ونیو.,O O O O O O O O O O O O S-LOCATION O O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O E-DATE O O O S-LOCATION O O O
+713,Sentence:848,tok 6: B never closed (next entity starts),د پسېپارټ غږ ډله چې له مارسیا اېسو ستي عایشه او ویدو رحمتي څخه جوړه ده یاد فستېوال کې د جمعې په ورځ ننداره وړاندې کړه.,O B-ORGANIZATION E-ORGANIZATION O O O B-PERSON B-PERSON I-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O O
+737,Sentence:872,tok 12: B never closed (sentence ends),په ۲۰۲۱ کال کې د طالبانو د بیا واکمنېدا پر مهال له افغانستان</LOCATION>ه د څارویو او خلکو د ایستلو په اړه د خپلې تجربې په اړه یو کتاب لیکي.,O B-DATE E-DATE O O S-ORGANIZATION O O O O O O B-LOCATION O O O O O O O O O O O O O O O O
+739,Sentence:874,tok 15: B never closed (next entity starts),"ښاغلی فارټېنګ دری کاله وړاندې هغه مهال د خبرونو د سر ټکی شو چې له افغانستان</LOCATION>ه د بریتانیا او متحده ایالاتو د ځواکونو له وتلو وروسته، هغه د خیریه موسسو د ایستلو په وخت کې د خلکو	O
+Sentence:874	پرتله	O
+Sentence:874	څارویو	O
+Sentence:874	ته په لومړیتوب ورکولو تورن شو.",O S-PERSON B-TIME I-TIME E-TIME O O O O O O O O O O B-LOCATION O S-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O O O
+743,Sentence:878,tok 10: B never closed (sentence ends),ده وویل، خو بیا هم د کارکوونکو ژغورل او له کابل</LOCATION>ه د هغوی ایستل په دې معنا وو چې په سرپنا کې به د څارویو د ساتنې لپاره څوک نه وي، له همدې امله کارکوونکي او څاروي دواړه وژغورل شول.,O O O O O O O O O O B-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+750,Sentence:885,tok 40: B never closed (next entity starts),د زياتو ماليو راټولولو لپاره حکومت په بوديجه کې نه يوازې د شته ټکسونو يا ماليو کچه لوړه کړې ده، بلکې پر ځيني هغو توکو يې هم ماليه لګولې ده، چې مخکې پرې مالیه نه اخیستل کېده. دې کې له افغانستان</LOCATION>ه پاکستان ته وارد شوي سابه او میوې هم شامل دي.,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCATION S-LOCATION O O O O O O O O O
+754,Sentence:889,tok 60: B never closed (next entity starts),دی وايي، د کابل او اسلام اباد تر منځ ترینګلي اړیکي، د ډېورنډ کرښې په اوږدو کې نښتې، د ګمرکونو لانجمنې چارې او د ځینو نورو عواملو له کبله په تېر یوه کال افغانستان ته د صادارتو کچه ټیټه شوې ده. د سوداګریز اقتصاد څارونکې ادارې ټرېډینګ اکانومکس د یوه رپوټ له مخې په ۲۰۲۲ کال کې پاکستان ته له افغانستان</LOCATION>ه د وارد شویو توکو ارزښت ۹۴۵ میلیونه ډالره و، چې په ۲۰۲۳ کال کې بیا دا کچه ۶۹۱ میلیونو ډالرو ته ټیټه شوې ده.,O O O S-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O S-LOCATION O O O O O O O O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O S-DATE O O S-LOCATION O O B-LOCATION O O O O O S-NUMBER O O O O O S-DATE O O O O O S-NUMBER O O O O O O
+755,Sentence:890,tok 1: B never closed (next entity starts),له افغانستان</LOCATION>ه پاکستان ته ډېر صادرېدونکو توکو کې وچه، تازه مېوه، سابه، د ډبرو سکاره او پنبه شامل دي. پر افغان میوې او سابو اتلس سلنې مالیې پاکستان کې د دې توکو بیې لوړې کړې، چې د ولس تر څنګ یې ځینې سوداګر وايي، دوی ته هم مالي زیانونه اوښتي دي.,O B-LOCATION S-LOCATION O O O O O O O O O O O O O O O O O O O O O S-NUMBER O O S-LOCATION O O O O O O O O O O O O O O O O O O O O O O O
+756,Sentence:891,tok 12: B never closed (next entity starts) | tok 50: B never closed (next entity starts),"د اسلام اباد یو سوداګر حاجي شاه زیب هم تر ډېره له افغانستان</LOCATION>ه تازه میوې او سابه واردوي. شاه زیب بي بي سي سره خبرو کې وويل چې د نوې مالیې (سېلز ټېکس) له لګېدو سره د مېوو او سابو نور لګښتونه هم زيات شول. د ده په وينا له افغانستان</LOCATION>ه پر واردېدونکې زردالو باندې د ټن په حساب د دوی تېر کال ۱۵,۰۰۰ پاکستانۍ روپۍ لګښت راته، خو سږ کال شپيته زره لګښت پرې شوی.",O B-LOCATION E-LOCATION O O B-PERSON I-PERSON E-PERSON O O O O B-LOCATION O O O O O B-PERSON E-PERSON B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOCATION O O O O O O O O O O O O S-NUMBER O O O O O O O S-NUMBER O O O O
+780,Sentence:915,tok 21: E without matching B,پاکستان لومړی وزیر شهباز شریف په خپل هېواد کې د ناامنیو پېښو زیاتېدو په هکله د خبرو په ترڅ کې ویلي: '<LOCATION>بلوچستان او خیبر پښتونخوا کې د ناامنیو پېښې زیاتې شوې دي، چې د پاکستان خلکو، پوځ او پولیسو زړورو ځوانانو پکې ګڼ شمېر قربانۍ ورکړې دي.'',S-LOCATION B-DESIGNATION E-DESIGNATION B-PERSON E-PERSON O O O O O O O O O O O O O O O O E-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O S-LOCATION O O O O O O O O O O O O
+782,Sentence:917,tok 13: E without matching B,شهباز شریف په دې لړ کې افغانستان ته په اشارې سره وویل: '<DATE>څلوېښت کاله کېږي، چې موږ د دوی د پناه غوښتونکو کوربتوب کوو. هغوی زموږ وروڼه دي، دلته دې اوسي، چې حالات ښه شي بېرته به ځي، خو د کوربتوب بدل داسې راکول کېږي، چې ټي ټي پي (پاکستاني طالبان) د دوی له خاورې د پاکستان پر ضد ترهګري کوي، نو دا د منلو نه ده، موږ چمتو یو چې د خپلو خلکو سوله ییز ژوند باوري کړو، خو موږ غواړو چې مسئله د خبرو له لارې حل شي او موږ په سوله کې ژوند وکړو.'',B-PERSON E-PERSON O O O O S-LOCATION O O O O O O E-DATE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O S-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+783,Sentence:918,tok 52: B never closed (sentence ends),"په افغانستان کې د طالبانو حکومت د ښاغلي شریف د تازه څرګندونو په هکله څه نه دي ویلي، خو له دې مخکې په افغانستان کې د طالبانو حکومت بیا بیا د پاکستان دغه تورونه رد کړي دي. په افغانستان کې د طالبانو حکومت ویندویانو په تکرار سره ویلي، چې چاته	O
+Sentence:918	اجازه	O
+Sentence:918	نه	O
+Sentence:918	ورکوي	O
+Sentence:918	چې	O
+Sentence:918	افغان	S_LOCATION
+Sentence:918	خاوره	O
+Sentence:918	د	O
+Sentence:918	بل	O
+Sentence:918	هېواد	O
+Sentence:918	پر	O
+Sentence:918	ضد	O
+Sentence:918	وکارول	O
+Sentence:918	شي‌ او له پاکستان</LOCATION>ه غواړي د خپل هېواد کې ستونزو ته پام وکړي.",O S-LOCATION O O B-ORGANIZATION E-ORGANIZATION O O S-PERSON O O O O O O O O O O O O O O S-LOCATION O O B-ORGANIZATION E-ORGANIZATION O O O S-LOCATION O O O O O O S-LOCATION O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O B-LOCATION O O O O O O O O O
+784,Sentence:919,tok 3: B never closed (next entity starts) | tok 24: B never closed (sentence ends),له دې مخکې پاکستان</LOCATION>ي چارواکو تېره اونۍ وویل، اسلام اباد کې یې د افغانستان سفیر مرستیال احضار کړی او په بنو سیمه کې د پاکستان</LOCATION>ي پوځیانو پر یوه مرکز د برید په تړاو يې احتجاج ثبت کړی.,O O O B-LOCATION O B-DATE E-DATE O B-LOCATION E-LOCATION O O O S-LOCATION O O B-DESIGNATION E-DESIGNATION O O S-LOCATION O O O B-LOCATION O O O O O O O O O O O O
+785,Sentence:920,tok 12: B never closed (next entity starts) | tok 40: B never closed (next entity starts),د یادونې ده چې د جولای پر ۱۵مې هغه برید کې اته پاکستان</LOCATION>ي پوځیان وژل شوي وو او یو شمېر نور ټپیان شوي وو. په پاکستان کې د طالبانو د حکومت سفیر بیا په دې هکله تېره اونۍ ویلي و، پاکستان</LOCATION>ي چارواکو ته یې ویلي چې د پاکستان په نورو برخو کې هم بریدونه کېږي، خو مانا یې دا نه ده چې بریدګر دې په افغانستان کې اوسېږي.,O O O O O B-DATE I-DATE E-DATE O O O O B-LOCATION O O O O O O O O O O O O S-LOCATION O O O O O S-DESIGNATION O O O O B-DATE E-DATE O O B-LOCATION O O O O O O S-LOCATION O O O O O O O O O O O O O O O O O S-LOCATION O O
+790,Sentence:925,tok 31: B never closed (next entity starts),"هغه په خپله دې قیقه‌يي۴۵ د وینا کې په وار وار ایران ته په اشارې سره د کانګرس د سنا او استازو جرګې غړو ته یې وویل چې د فلسطین له حماس د لبنان له حزب‌الله او د یمن له حوثي غورځنګ سره د دوی جګړه په حقیقت	O
+Sentence:925	کې	O
+Sentence:925	د	O
+Sentence:925	امریکا	S_LOCATION
+Sentence:925	له	O
+Sentence:925	اصلي	O
+Sentence:925	دښمن	O
+Sentence:925	ایران	S_LOCATION
+Sentence:925	سره	O
+Sentence:925	جګړه	O
+Sentence:925	ده.",O O O O S-TIME O O O O O O S-LOCATION O O O O O S-ORGANIZATION O O O O O O O O O O O S-LOCATION O B-ORGANIZATION O S-LOCATION O S-PERSON O O S-LOCATION O O O O O O O O O
+817,Sentence:952,tok 18: B never closed (next entity starts),د طالبانو د واکمنۍ دری کاله تېرېږي، خو نړۍ او د افغانستان ځینې ګاونډي هېوادونه لا هم له افغانستان</LOCATION>ه ورپېښو احتمالي امنیتي ګواښونو ته اندېښمن دي. څه موده وړاندې د شانګهای همکاریو سازمان غړو هېوادونو هم له افغانستان پر پېښېدونکو احتمالي امنیتي ګواښونو خبرې کړې وې.,O O O O B-TIME E-TIME O O O O O S-LOCATION O O O O O O B-LOCATION O O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O S-LOCATION O O O O O O O O
+822,Sentence:957,tok 35: B never closed (next entity starts) | tok 36: B never closed (next entity starts),سیګار د امریکا کانګرس ته په خپل درې میاشتني راپور کې، چې د مې میاشتې پر دویمه خپور شو، ویلي چې د داعش خراسان څانګې په تېرو درېیو میاشتو کې د افغانستان په ګډون په روسیه ایران پاکستان او ترکیې کې بریدونه کړي دي.,S-ORGANIZATION O S-LOCATION O O O O O O O O O O B-DATE I-DATE I-DATE E-DATE O O O O O B-ORGANIZATION E-ORGANIZATION O O O B-TIME E-TIME O O S-LOCATION O O O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O O O
+836,Sentence:971,tok 16: B never closed (sentence ends),د افغان خبریالانو مرکز دا هم ویلي چې معلوماتو ته لاسرسی سخت محدود شوی او له افغانستان</LOCATION>ه بهر له رسنیو سره د خبریالانو پر همکارۍ هم بندیز لګېدلی دی.,B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O B-LOCATION O O O O O O O O O O O O
+842,Sentence:977,tok 33: E without matching B,"سانډرا اوس ۶۴ کلنه ده، داسې انګېرل کېږي چې د هغې د استازو په وینا، دا د متحده ایالاتو په تاریخ کې د یوې مېرمنې ترټولو اوږد پېژندل شوی غلط محکومیت دی. په معصومه	B_ORGANIZATION
+Sentence:977	پروژه کې د هغې قانوني ټیم وویل دوی منندوی دي چې اغلې هیم بالاخره له خپلې کورنۍ سره یوځای شوې او د جرم په قضیه کې به دوی د هغې د نوم پاکولو لپاره مبارزې	O
+Sentence:977	ته	O
+Sentence:977	دوام	O
+Sentence:977	ورکړي.",S-PERSON O B-DATE E-DATE O O O O O O O O O O O O O B-LOCATION E-LOCATION O O O O O O O O O O O O O O E-ORGANIZATION O O O O O O O O O O B-PERSON E-PERSON O O O O O O O O O O O O O O O O O O O O O O
+862,Sentence:997,tok 25: B never closed (sentence ends),د لوړو زدکړو وزارت سرپرست شیخ ندا محمد ندیم په دغه غونډه کې وویل، بریالي شویو زده کوونکو ته ډاډ ورکوي چې د دوی وزارت، لوړو زدکړو وزارت ورته د هغه په ټکو ټول امکانات برابر کړي چې په مرسته به یې یاد محصلین خپلې زدکړې په سمه توګه مخکې بیایي.,O O O O S-DESIGNATION B-PERSON I-PERSON I-PERSON E-PERSON O O O O O O O O O O O O O O O O B-ORGANIZATION O O O O O O O O O O O O O O O O O O O O O O O O O
+871,Sentence:1006,tok 0: B never closed (sentence ends),مولوي هبت‌الله اخوندزاده</PERSON>: حاکمیت کې مو د ښځو ټول شرعي حقوق تامین شوي دي,B-PERSON O O O O O O O O O O O O O
+964,Sentence:1099,tok 6: B never closed (next entity starts),د پيپلز پارټۍ د پنجاب مشران صمصام بخاري اشرف سوهنا او عارف لاشاري په ګډون د اوکاړه ولسوالۍ ټوله تنظيم تحريک انصاف کې شامل شوی دی۔,O B-ORGANIZATION E-ORGANIZATION O S-LOCATION O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O S-LOCATION O O O B-ORGANIZATION E-ORGANIZATION O O O O
+966,Sentence:1101,tok 1: B never closed (next entity starts),وروسته صمصام بخاري اشرف سوهنا او عارف لاشاري په بني ګاله کې د تحريک انصاف له چېرمېن عمران خان سره وليدل، چې پکې شاه محمود قريشي او جهانګير ترين په ګډون نور د ګوند مشران هم شامل وو، او په همدې موقع د پيپلز پارټۍ مشرانو په رسمي ډول د تحريک انصاف سره د يوځای کېدو اعلان وکړ۔,O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O B-LOCATION E-LOCATION O O B-ORGANIZATION E-ORGANIZATION O O B-PERSON E-PERSON O O O O B-PERSON I-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O
+1010,Sentence:1145,tok 7: B never closed (next entity starts),په دې کې د ګوند مهم مشران بشیر بلور د میاں افتخار حسین زوی عالم زیب خان او نور مشران شامل دي۔,O O O O O O O B-PERSON O O B-PERSON I-PERSON E-PERSON O B-PERSON I-PERSON E-PERSON O O O O O
+1012,Sentence:1147,tok 36: B never closed (next entity starts) | tok 40: B never closed (next entity starts),له بلې خوا، په سوات کې د سنہ دوہزارتیرہ په پرتله په سنہ دوہزارچودہ کې د جرمونو کچه د ۳۰ سلنې په اندازه زیاته شوې، چې د حکومتي احصائیو له مخې تر اوسه پورې د قتل ۱۰ ، د قتل هڅه ۴ ، ترهګري ۱۵ او د هدف نیولو وژنو ۹ پېښې راپور شوې دي۔,O O O O S-LOCATION O O B-DATE E-DATE O O O B-DATE E-DATE O O O O O S-NUMBER O O O O O O O O O O O O O O O O B-NUMBER O O O B-NUMBER O S-NUMBER O O O O O S-NUMBER O O O O
+1027,Sentence:1162,tok 1: E without matching B,سینیئر<DESIGNATION>صحافی</DESIGNATION><PERSON>ضیاالدین احمد وویل چې ټي وي چینلونه اب نیوز او ویوز نور خبرونه نه خپروي، دا د پروپیګنډې چینلونه شوي دي.,O E-PERSON O O O O O O O O O O O O O O O O O O O
+1028,Sentence:1163,tok 33: E without matching B | tok 61: E without matching B | tok 63: B closed by E of a DIFFERENT type | tok 64: E without matching B | tok 85: E without matching B,"جیوگروپ د حکومت د کمپاین برخه ده پداسې حال کې چې نور لوی چینلونه د حکومت ضد کمپاین برخه ګرځیدلي دي او همدا وجه ده چې دې شو ته دومره پراخه پوښښ ورکول کیږي۔<LOCATION>لاهور څخه نیولې تر څو تیرو څو ساعتونو پورې د دې چینلونو ځانګړې خپرونې روانې دي، خبرونه او بحثونه یوازې د دې مارچ او ورسره تړلي نور خبرونه دي۔سینیئرصحافی او صحافی</DESIGNATION><PERSON>مظہر عباس هم په پاکستان کې د خبریالانو په سازمانونو کې فعال رول لري او په بحثونو کې برخه اخلي۔دوی وایي: مجموعي	O
+Sentence:1163	رسنۍ	O
+Sentence:1163	شاید	O
+Sentence:1163	نه	O
+Sentence:1163	وي،	O
+Sentence:1163	خو	O
+Sentence:1163	د	O
+Sentence:1163	رسنیو	O
+Sentence:1163	یوه	O
+Sentence:1163	برخه	O
+Sentence:1163	داسې	O
+Sentence:1163	ده	O
+Sentence:1163	چې	O
+Sentence:1163	د	O
+Sentence:1163	دې	O
+Sentence:1163	کوریج	O
+Sentence:1163	څخه	O
+Sentence:1163	د	O
+Sentence:1163	دوی	O
+Sentence:1163	هیلو	O
+Sentence:1163	عکس	O
+Sentence:1163	ښکاري،	O
+Sentence:1163	سربیره	O
+Sentence:1163	پردې	O
+Sentence:1163	د	O
+Sentence:1163	رسنیو	O
+Sentence:1163	یوه	O
+Sentence:1163	برخه	O
+Sentence:1163	د	O
+Sentence:1163	حکومت	O
+Sentence:1163	د	O
+Sentence:1163	موقف	O
+Sentence:1163	ملاتړی	O
+Sentence:1163	ښکاري	O
+Sentence:1163	چې	O
+Sentence:1163	دې	O
+Sentence:1163	مارچ	O
+Sentence:1163	ته	O
+Sentence:1163	داسې	O
+Sentence:1163	ګوري	O
+Sentence:1163	چې	O
+Sentence:1163	شاید	O
+Sentence:1163	د	O
+Sentence:1163	جمهوریت	O
+Sentence:1163	لپاره	O
+Sentence:1163	زیان	O
+Sentence:1163	ورسوي۔<NUMBER>۱۸ کروړ نفوس لرونکي هیواد کې د روانې دې تحریک یوه برخه د ځینو خبریالانو او رسنیو له خوا مهم سیاسي پېښه یا مسله ګڼل کیږي چې پکې مظہر عباس هم شامل دی۔",S-ORGANIZATION O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O E-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O O E-DESIGNATION O B-DESIGNATION E-PERSON O O O O O O O O O O O O O O O O O O O O E-NUMBER O O O O O O O O O O O O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O
+1030,Sentence:1165,tok 1: E without matching B,سینیئر<DESIGNATION>صحافی</DESIGNATION><PERSON>مظہر عباس نظر د ډاکټر څخه توپیر لري۔,O E-PERSON O O S-DESIGNATION O O O
+1035,Sentence:1170,tok 1: B never closed (next entity starts),مسلکي صحافی</PERSON>ان اوس مهال دندې ترسره کوي ځکه چې دندې موندل اوس ستونزمن دي، او دومره لوړې معاشونه اخیستلو وروسته که څوک استعفا ورکړي او کور ته لاړ شي، نو دا یوه لویه ستونزه ګرځي، او ښایي د همدې لپاره مسلکي صحافیانو هم د جوړجاړي پیل کړی دی.,O B-PERSON O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O S-PERSON O O O O O O
+1059,Sentence:1194,tok 16: B never closed (next entity starts),د راپور له مخې د پاکستان پیپلز پارٹی دوه پخواني وزیران، سید یوسف رضا گیلانی او راجہ پرویز اشرف د آئل اینڈ گیس ریگولیٹری اتھارٹی د قوانینو څخه سرغړونه، د توقیر صادق د چیئرمین په توګه مقررول، او د کرايې برېښنا ګرو د قراردادونو په اړه د احتمالي بدعنوانۍ تحقیقات ورسره روان دي۔,O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O B-PERSON I-PERSON I-PERSON E-PERSON O B-PERSON O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O B-PERSON E-PERSON O S-DESIGNATION O O O O O O O O O O O O O O O O O O O
+1064,Sentence:1199,tok 21: B never closed (next entity starts),قومي احتساب بیورو په دې راپور کې د پخواني وزیر اعلیٰ بلوچستان نواب اسلم رئیسانی سربېره د پخواني فدرالي وزیر داخلہ آفتاب احمد خان شیرپاؤ د پخواني فدرالي وزیر اطلاعات فردوس عاشق اعوان او په امریکہ کې د پاکستان پخواني سفیر حسین حقانی نومونه هم شامل دي۔,B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O B-DESIGNATION E-DESIGNATION S-LOCATION B-PERSON I-PERSON E-PERSON O O O O B-DESIGNATION E-DESIGNATION B-PERSON O O O O O O B-DESIGNATION E-DESIGNATION B-PERSON I-PERSON E-PERSON O O S-LOCATION O O O O S-DESIGNATION B-PERSON E-PERSON O O O O
+1065,Sentence:1200,tok 31: B never closed (next entity starts),پر دې کسانو د واکونو د ناسم استعمال تور دی، پداسې حال کې چې پر حسین حقانی تور دی چې د اطلاعاتو د سیکرټرۍ په توګه یې درې بېلابېلې کمپنۍ په لاہور اسلام آباد او کراچی کې د ایف ایم ریډیو سټیشن جوازونه د قوانینو او ضوابطو څخه سرغړونه سره ورکړي دي۔,O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O O O O O O O O O O O O B-LOCATION B-LOCATION E-LOCATION O S-LOCATION O O O O O O O O O O O O O O O O
+1068,Sentence:1203,tok 11: B never closed (next entity starts),په دې بیوروکراتانو کې د فیډرل بورڈ آف ریونیو پخواني چیئرمین عبداللہ یوسف ارشد حکیم او سلمان صدیق سربېره د اوبو او بریښنا پخواني سیکریٹری شاہد رفیع او اسماعیل قریشی شامل دي۔,O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O S-DESIGNATION B-PERSON E-PERSON O B-PERSON E-PERSON O O
+1070,Sentence:1205,tok 15: E without matching B | tok 67: E without matching B,پاکستان عوامی تحریک د سربراہ ډاکټر طاہرالقادری له خوا بهر ته د تلو اعلان شوی دی۔<LOCATION>لاہور کې د دوشنبې ماښام په یوه خبري غونډه کې طاہرالقادری وویل چې زه نن شپه بهر ته ځم۔ هغه وویل چې د نومبر په منځ کې به خپل وطن ته ستون شي۔ هغه وویل چې خپل زیات وخت به په امریکہ کې تیروي چیرې چې به د خپلې ګوند تنظیم وکړي۔<DATE>تیره نومبر په امریکہ کې به کینیڈا ته ولاړ شي او سولہ نومبر به بیرته پاکستان ته راستون شي۔یادونه ده چې د پاکستان عوامی تحریک سربراه د څوارلسم اگست په لاہور څخه اسلام آباد ته د انقلاب مارچ پیل کړی و او ادعا یې وکړه چې د هیواد نظام به ختم کړي۔خو په اسلام آباد کې د شپږوس ورځو د احتجاج وروسته یې په سیاست کې د ګډون کولو او د احتجاج د پای ته رسولو اعلان وکړ۔,B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O S-DESIGNATION S-DESIGNATION S-PERSON O O O O O O O O E-LOCATION O O O O O O O O O S-PERSON O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O S-LOCATION O O O O O O O O O O E-DATE O S-LOCATION O O S-LOCATION O O O O B-DATE E-DATE O O S-LOCATION O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION S-PERSON O B-DATE E-DATE O S-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O B-LOCATION E-LOCATION O O S-NUMBER O O O O O O O O O O O O O O O O O O O O
+1071,Sentence:1206,tok 37: E without matching B,طاہرالقادری وویل چې د لاہور پېښې او وروسته د اسلام آباد په احتجاج کې د وژل شویو کارکوونکو د وژنو په بدل کې به قصاص نه کوي بلکې د وژنو په بدل کې به وژنې وي۔<ORGANIZATION>پاکستان عوامی تحریک د سربراہ ادعا کوي چې له حکومت سره خبرې شوي خو کومه معامله نه ده شوې۔د احتجاج وروسته پاکستان عوامی تحریک په پاکستان کې په بیلابیلو ښارونو کې جلسې پیل کړې خو د محرم الحرام له امله طاہرالقادری دا سلسله په موقت ډول درولې ده۔له بلې خوا، د پاکستان تحریک انصاف د سربراہ ویلي چې د طاہرالقادری له خوا د احتجاج د ختمولو په اړه دوی ته هېڅ توپیر نه کوي ځکه چې اوس خلک متحرک شوي دي۔,S-PERSON O O O S-LOCATION O O O O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O E-ORGANIZATION O S-PERSON O O O O O O O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O O O S-PERSON O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O S-PERSON O O O S-PERSON O O O O O O O O O O O O O O O O O O O O O
+1072,Sentence:1207,tok 69: E without matching B | tok 98: E without matching B,خیبر پختونخوا د احتساب عدالت د فساد په تور نیول شوي صوبایي وزیر معدنیات ضیا اللہ آفریدی د 13 ورځني ریمانډ لپاره د احتساب کمیشن سپارلی دی۔نیول شوی صوبایي وزیر معدنیات د جمعې په ورځ عدالت ته وړاندې شو۔د فساد په اړه په بله قضیه کې، د قومی احتساب بیورو د پخواني وزیر معدنیات محمود زیب او نورو نهه چارواکو د 12 ورځني فزیکي ریمانډ ترلاسه کړی دی۔<PERSON>ضیا اللہ آفریدی د پاکستان تحریک انصاف غړی دی۔وروسته جوړ شوي صوبایي احتساب کمیشن تېره ورځ هغه د مالي فساد او د صلاحیتونو د ناسم استعمال په تور نیولی و۔<PERSON>ضیا اللہ آفریدی د جمعې په ورځ په حیات آباد کې د احتساب عدالت ته وړاندې شو۔په دې موقعه کې د هغه ملاتړي په لوی شمېر موجود وو او سخت شعارونه یې ورکړل۔,B-LOCATION E-LOCATION O O O O O O O O O O B-DESIGNATION E-DESIGNATION B-PERSON I-PERSON E-PERSON O S-NUMBER O O O O B-ORGANIZATION E-ORGANIZATION O O O O B-DESIGNATION E-DESIGNATION O O O O O O O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O B-PERSON E-PERSON O O O O O S-NUMBER O O O O O O O E-PERSON O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O O O O O O O O O O O E-PERSON O O O O O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O O O O O
+1078,Sentence:1213,tok 8: B never closed (next entity starts),سابق وزیر محمود زیب او د محکمې پخوانی سیکریٹری انسپیکټرانو او د اوسني کمشنر په ګډون په بنوں کې نور نو کسان هم جمعې په ورځ عدالت ته وړاندې کړل۔,O O B-PERSON E-PERSON O O O O B-DESIGNATION O O O O S-DESIGNATION O O O S-LOCATION O O O O O O O O O O O O
+1129,Sentence:1264,tok 13: B never closed (next entity starts),هغه وویل چې په پارلیمنٹ کې د نورو ګوندونو غلبه ده چې د نیب الیکشن کمیشن او د سرپرست حکومتونه د خپلې خوښې مطابق جوړ کړي دي۔ عمران خان وویل چې هغه هڅه کړې وه چې د پارلیمنٹ غړي خپل شتمنۍ ښکاره کړي او مالیه ورکړي۔,O O O O S-ORGANIZATION O O O O O O O O B-ORGANIZATION B-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O B-PERSON E-PERSON O O O O O O O O S-ORGANIZATION O O O O O O O O
+1167,Sentence:1304,tok 33: B never closed (next entity starts),د دولتي خبري اژانس اے پی پی په وینا، د وفاقي وزیر داخلہ په تحریري ځواب کې ویل شوي چې په دې جګړه کې ټول اړتالیس ارب روپۍ لګښت شوي، چې پکې د اسلام آباد د هېواد قبایلي سیمې او د خیبر پختونخوا لګښتونه شامل دي۔,O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O O O O O B-NUMBER E-NUMBER O O O O O O B-LOCATION O O O O O O O B-LOCATION E-LOCATION O O O
+1182,Sentence:1319,tok 12: B never closed (next entity starts) | tok 13: B never closed (next entity starts) | tok 14: B never closed (next entity starts),په سیلاب کې ټولټال ۷ کلي له منځه تللي دي، چې پکې وریجون کشوم موشگول استروو او اتھول شامل دي۔,O O O O S-NUMBER O O O O O O O B-LOCATION B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O
+1246,Sentence:1383,tok 13: B never closed (next entity starts) | tok 18: B never closed (next entity starts) | tok 24: B never closed (next entity starts) | tok 27: B never closed (next entity starts) | tok 33: B never closed (next entity starts) | tok 36: B never closed (next entity starts),د يوه سرکاري اعلاميې له مخې، په غونډه کې د صوبايي وزير داخله مير سرفراز بګټي جنرل ليفټيننټ ناصر جنجوعه د بلوچستان چيف سېکرټري سيف الله چټه جنرل کمانډنګ افسران د اېف سي آی جي د سکرېټري داخله د پوليس آی جي او نورو اړوندو چارواکو ګډون کړی و۔,O O O O O O O O O O O B-DESIGNATION E-DESIGNATION B-PERSON O O B-DESIGNATION E-DESIGNATION B-PERSON O O S-LOCATION B-DESIGNATION E-DESIGNATION B-PERSON O O B-DESIGNATION O O O B-ORGANIZATION E-ORGANIZATION B-DESIGNATION O O B-DESIGNATION O O S-ORGANIZATION B-DESIGNATION E-DESIGNATION O O O O O O O
+1298,Sentence:1435,tok 22: B never closed (next entity starts) | tok 23: B never closed (next entity starts) | tok 24: B never closed (next entity starts),د اقوامِ متحدہ له مخې، د پوليو له امله اغېزمن درې هېوادونه د نړۍ د ماشومانو لپاره ګواښ بلل کېږي، او په شام صوماليه عراق کيمرون او استوايي ګينه کې موندل شوی وايروس خپلې ريښې له پاکستان او نايجيريا سره تړي۔,O B-ORGANIZATION E-ORGANIZATION O O O O O O O S-NUMBER O O O O O O O O O O O B-LOCATION B-LOCATION B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O O O O O O O S-LOCATION O S-LOCATION O O
+1299,Sentence:1436,tok 30: B never closed (next entity starts),د عوامي تحريک مشر ډاکټر طاهرالقادري د ماډل ټاؤن د پېښې په اړه له حکومت څخه د دیت د اخيستو تاثر رد کړی او ويلي يې دي چې زموږ مجرمان وزيراعظم وزيراعلی پنجاب او د پنجاب حکومت دی، او د شهيدانو د وينې بدله به وينه وي۔,O B-ORGANIZATION E-ORGANIZATION O S-DESIGNATION S-PERSON O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O O O B-PERSON B-PERSON E-PERSON O O O O O O O O O O O O O O
+1315,Sentence:1452,tok 8: B never closed (next entity starts) | tok 10: B never closed (sentence ends),د رینجرز د کرنل امجد په وینا، د تحریک طالبان لشکر جھنگوی د سیاسي ګوندونو د وسله‌والو څانګو او د لیاري ګینګ وار پر ضد عملیات ترسره شوي دي۔,O S-ORGANIZATION O S-DESIGNATION S-PERSON O O O B-ORGANIZATION O B-ORGANIZATION O O O O O O O O O O O O O O O O O O
+1324,Sentence:1461,tok 20: B never closed (next entity starts) | tok 21: B never closed (next entity starts),د پشاور د بډا پیر سیمه کې د پاکستان فضائیہ پر بیس د برید له مخې، مخکې له دې د کراچۍ کوئټې کامرې او پشاور کې د پاکستان فضائیہ د اییر بیسونو او اییرپورټونو هدف ګرځول شوي وو۔,O S-LOCATION O B-LOCATION E-LOCATION O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O
+1326,Sentence:1463,tok 5: B never closed (next entity starts),په راتلونکي میاشت کې، یعني ۱۸ جنوري ۲۰۰۸</DATE>، د کامرہ پر دوه راکټونه ویشتل شوي وو، خو پدې کې هیڅ جاني زیان نه و راغلی۔,O O O O O B-DATE O O O S-LOCATION O O O O O O O O O O O O O O O
+1332,Sentence:1469,tok 19: B never closed (sentence ends),"د پاکستان پوځ په تېره کال کې د وزیرستان په ګډون په نورو سیمو کې د بندو ډلو لکه تحریک طالبان ازبک، چیچن او نورو ترهګرو ګروپونو پر ضد د ضرب	O
+Sentence:1469	عضب عملیات پیل کړي وو۔",O S-LOCATION O O O O O O S-LOCATION O O O O O O O O O O B-ORGANIZATION O O O O O O O O O O O O O O O
+1378,Sentence:1515,tok 18: B never closed (next entity starts),د هند له لوري رائنا ۳ وېکټې واخيستې، په داسې حال کې چې ايشون او کلکرني هر يو ۲ ، ۲ وېکټې ترلاسه کړې۔,O O O O S-PERSON S-NUMBER O O O O O O O S-PERSON O S-PERSON O O B-NUMBER S-NUMBER O O O
+1433,Sentence:1616,tok 0: B never closed (next entity starts) | tok 2: B never closed (next entity starts) | tok 4: B never closed (next entity starts) | tok 6: B never closed (next entity starts) | tok 8: B never closed (next entity starts) | tok 10: B never closed (next entity starts) | tok 12: B never closed (next entity starts) | tok 14: B never closed (next entity starts) | tok 16: B never closed (next entity starts) | tok 18: B never closed (next entity starts) | tok 20: B never closed (next entity starts) | tok 22: B never closed (next entity starts) | tok 24: B never closed (next entity starts) | tok 26: B never closed (next entity starts) | tok 28: B never closed (next entity starts) | tok 30: B never closed (next entity starts) | tok 32: B never closed (next entity starts) | tok 34: B never closed (next entity starts) | tok 36: B never closed (next entity starts) | tok 39: B never closed (sentence ends),احمد شهزاد محمد حفیظ شعیب ملک عمرا کامل بابر اعظم محمد رضوان سرفراز احمد جنید خان اسد شفیق عماد وسیم انور علی عمران خان بلاول بھٹی یاسر شاہ حماد اعظم سمیع اسلم مختار احمد احسان عادل راحت علی او سعد نسیم</PERSON>.,B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O O B-PERSON O
+1462,Sentence:1645,tok 12: B never closed (next entity starts) | tok 14: B never closed (next entity starts) | tok 16: B never closed (next entity starts),د کپتان ایلسټر کک تر مشرۍ لاندې د انگلینڈ په ټیم کې معین علی جوس بٹلر ایڈم لائیتھ مارک وڈ او عادل رشید هغه لوبغاړي دي چې دا به یې لومړۍ ایشز سیریز وي.,O O B-PERSON E-PERSON O O O O S-LOCATION O O O B-PERSON O B-PERSON O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O
+1473,Sentence:1656,tok 4: B never closed (next entity starts) | tok 6: B never closed (next entity starts),د دوی پر ځای راحت علی شان مسعود احسان عادل او عمران خان لوبډلې ته شامل شوي دي۔,O O O O B-PERSON O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O
+1480,Sentence:1663,tok 3: B never closed (next entity starts),هغه په خپل 24 -کلن کیریئر کې 200 ټیسټ میچونه، 463 ون ډې او یو ټي ټوئنټي لوبولي دي او په ټول کې یې 34357 رنز او 100 سنچري جوړې کړي دي۔,O O O B-NUMBER O O S-NUMBER O O S-NUMBER O O O O O O O O O O O O O S-NUMBER O O S-NUMBER O O O O
+1515,Sentence:1698,tok 4: B never closed (next entity starts),د دې ټورنمنټ لپاره، هند بنګله دېش او آیرلنډ خپلې لوبډلې اعلان کړې دي، او نن چهارشنبه پاکستان خپله وروستۍ لوبډله اعلانوي.,O O O O B-LOCATION B-LOCATION E-LOCATION O S-LOCATION O O O O O O O O S-LOCATION O O O O
+1564,Sentence:1747,tok 20: B never closed (next entity starts),کله چې انگلینڈ د ټاس ګټلو وروسته د لومړي بیټینګ پرېکړه وکړه، پیل یې ښه نه و. خو وروسته د جو روټ گیری بیلنس او بین سټوکس د زړه پورې بیټینګ له امله د انگلینڈ موقف مستحکم شو.,O O S-LOCATION O O O O O O O O O O O O O O O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O S-LOCATION O O O
+1567,Sentence:1750,tok 5: B never closed (next entity starts) | tok 48: E without matching B,کپتان کپتان ایلسټر کک د 20 ، ایډم لیتھ د ۶ او این بیل یوازې د یوه رنز سره آوټ شول. وروسته، انگلینڈ څخه جو روټ او گیری بیلنس د څلورمې ویکټ په زړه پورې شراکت کې 153 رنزونه جوړ کړل او د خپلې لوبډلې موقف یې ښه کړ.<PERSON>گیری بیلینس د اته چوکو په مرسته 61 رنزونه جوړ کړل او د جاش هیزل ووډ پر توپ آوټ شول.,O S-DESIGNATION B-PERSON E-PERSON O B-NUMBER B-PERSON E-PERSON O O O B-PERSON E-PERSON O O O O O O O O S-LOCATION O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O S-NUMBER O O O O O O O O O O O E-PERSON O O O O O S-NUMBER O O O O O O O O O O O O
+1596,Sentence:1779,tok 6: B never closed (next entity starts),څه موده مخکې، جوس بټلر د ۷ ، بین سټوکس د ۴۲ او سټوورټ براډ د ۴ منډو وروسته آوټ شول۔,O O O B-PERSON E-PERSON O B-NUMBER B-PERSON E-PERSON O S-NUMBER O B-PERSON E-PERSON O S-NUMBER O O O O
+1603,Sentence:1786,tok 18: B never closed (next entity starts),د انګلینډ له خوا ټول بولرانو ښه بولینګ وکړه، او جیمز اینډرسن درې، په داسې حال کې چې سټوارټ براډ معین علی او مارک ووډ دوه دوه وېکټې واخیستې۔,O S-LOCATION O O O O O O O O B-PERSON E-PERSON O O O O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O
+1625,Sentence:1808,tok 1: B never closed (sentence ends),ماسوا چندي مال هیڅ سری لنکایي لوبغاړي نیم سنچري نه وه جوړه کړې.,O B-PERSON O O O O O O O O O O O
+1651,Sentence:1834,tok 6: B never closed (next entity starts),جانسن په ټیسټ کرکټ کې خپله 11 مه نیمه سنچري جوړه کړه او وروسته له 77 رنزونو، د جو روټ دویمه ویکټ واخیسته.,O O O O O O B-NUMBER O O O O O O O S-NUMBER O O B-PERSON E-PERSON O O O
+1655,Sentence:1838,tok 26: B never closed (next entity starts),په دې میچ کې انګلینډ ټاس ګټلی و او د لومړۍ اینګز لپاره یې د لوبې پرېکړه کړې وه، چې د جو روټ سنچري او د معین علی بین سټوکس او گیری بیلنس نیمه سنچريو په مرسته یې لومړۍ اینګز کې 430 رنز جوړ کړل.,O O O O S-LOCATION O O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O S-NUMBER O O O
+1686,Sentence:1869,tok 4: B never closed (next entity starts),د پاکستان په لوري، محمد عرفان راحت علی او محمد حفیظ ډېر ښه توپ ویش وکړ.,O O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O
+1693,Sentence:1876,tok 0: B never closed (next entity starts),مالنگا چې اوس یې تېزه توپ ویشنه مخکېنۍ کچه نه لري، په لسو اوورونو کې د 64 رنزونو په ورکولو سره دوه ویکټې واخیستې، خو د دوی په وروستیو اوورونو کې د انور علی دوه کیچونه د پاتھیرانا لخوا ډراپ شول.,B-PERSON O O O O O O O O O O O O O O O S-NUMBER O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O S-PERSON O O O
+1744,Sentence:1927,tok 8: B never closed (next entity starts),احمد شهزاد او محمد حفیظ د پاکستان د دویم ې اننګز پیل وکړ او تر دې دمه یې د درې منډو جوړولو سره خپله ویکټه له لاسه نه ده ورکړې۔,B-PERSON E-PERSON O B-PERSON E-PERSON O S-LOCATION O B-NUMBER O O O O O O O O O S-NUMBER O O O O O O O O O O
+1745,Sentence:1928,tok 4: B never closed (next entity starts) | tok 21: B never closed (next entity starts),د ټیسټ میچ د دویم ې ورځې لوبه د باران له امله د ټاکلي وخت څخه مخکې پای ته ورسیده او د درېیم ې ورځې لوبه هم د میدان لندبل له امله د ۳۰ دقیقو ځنډ سره پیل شوه۔,O O O O B-NUMBER O O O O O O O O O O O O O O O O B-NUMBER O O O O O O O O O S-TIME O O O O O
+1759,Sentence:1942,tok 10: B never closed (next entity starts),د پاکستان له لوري، یاسر شاہ ۶ ویکټې واخیستې، او ذوالفقار بابر محمد حفیظ او جنید خان هر یوه ۱ ویکټ ترلاسه کړه۔,O S-LOCATION O O B-PERSON E-PERSON S-NUMBER O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O S-NUMBER O O O
+1765,Sentence:1948,tok 10: B never closed (next entity starts),د پاکستان له لوري، یاسر شاہ ۶ ویکټې واخیستې، او ذوالفقار بابر محمد حفیظ او جنید خان هر یوه ۱ ویکټ ترلاسه کړه۔,O S-LOCATION O O B-PERSON E-PERSON S-NUMBER O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O S-NUMBER O O O
+1770,Sentence:1953,tok 28: B never closed (sentence ends),هغه وویل چې تر اوسه یې دا پوښتنه ځواب نه دی موندلی چې داسې لوبغاړی چې ښه فارم کې دی، ځوان دی، او د دې فارمیټ لپاره نائب کپتان دی، ولې په همدغه فارمیټ کې له لوبې لرې کېږي.,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-DESIGNATION O O O O O O O O O O
+1792,Sentence:1975,tok 4: B never closed (next entity starts) | tok 6: B never closed (next entity starts),د کرکټ د آسټرالیا چیف ایگزیکٹو جیمز سدر لینڈ د ټرینټ بریج ټیسټ وروسته په میلبرن کې له رسنیو سره په خبرو کې وویل:,O O O S-LOCATION B-DESIGNATION O B-PERSON O O O B-LOCATION E-LOCATION O O O S-LOCATION O O O O O O O O
+1799,Sentence:1982,tok 0: B never closed (next entity starts),روہت شرما</PERSON>: 4 رنز,B-PERSON O S-NUMBER O
+1800,Sentence:1983,tok 0: B never closed (next entity starts),وراټ کوہلی</PERSON>: 3 رنز,B-PERSON O S-NUMBER O
+1802,Sentence:1985,tok 0: B never closed (next entity starts),ہربھجن</PERSON>: 1 رنز,B-PERSON S-NUMBER O
+1803,Sentence:1986,tok 0: B never closed (next entity starts),ایشون</PERSON>: 3 رنز,B-PERSON S-NUMBER O
+1804,Sentence:1987,tok 0: B never closed (next entity starts),امت مشرا</PERSON>: 15 رنز,B-PERSON O S-NUMBER O
+1838,Sentence:2022,tok 1: B never closed (next entity starts),د راج کمار شرما په وینا، وراټ کوهلي ډېر مثبت کپتاني وکړه او په میچ کې د 20 ویکټونو اخیستلو هڅې لپاره د 5 بولرانو کارول ستراتیژي بریالۍ شوه۔,O B-PERSON O O O O B-PERSON E-PERSON O O O O O O O O O S-NUMBER O O O O O S-NUMBER O O O O O
+1846,Sentence:2030,tok 11: B never closed (next entity starts) | tok 13: B never closed (next entity starts) | tok 15: B never closed (next entity starts) | tok 28: B never closed (next entity starts) | tok 29: B never closed (next entity starts),د ګډون غوښتونکو کرکټرانو په منځ کې د سری لنکا کپتان اینجلو میتھیوز تلکارتنے دلشن لستھ مالنگا او د ویسټ انڈیز لوبغاړی کیرن پولارڈ شامل دي. همدارنګه د آسٹریلیا انگلینڈ نیوزی لینډ او جنوبی افریقہ هر هېواد څخه دوه دوه کرکټرې هم ګډون غواړي.,O O O O O O O O B-LOCATION E-LOCATION O B-PERSON O B-PERSON O B-PERSON O O O B-LOCATION E-LOCATION O B-PERSON E-PERSON O O O O B-LOCATION B-LOCATION B-LOCATION E-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O
+1900,Sentence:2084,tok 8: B never closed (next entity starts) | tok 10: B never closed (next entity starts),د یورپیئن کلب ایسوسی ایشن غړو چې پکې مانچیسټر یونائیټډ لیورپول بارسیلونا او بیئرن میونخ شامل دي، د ممکنه میاشتې د مئی سنہ دوہزارباءیس په اړه خبرې کړي دي۔ ای سی اے فکر کوي چې په مني کې په ټورنمنټ کې لږ تر لږه خنډ به رامنځته شي۔,O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O B-ORGANIZATION O B-ORGANIZATION S-ORGANIZATION O B-ORGANIZATION E-ORGANIZATION O O O O O O B-DATE I-DATE E-DATE O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O O O
+1906,Sentence:2090,tok 2: B never closed (next entity starts) | tok 3: B never closed (next entity starts),د فیفا صدر سیپ بلیټر د دې هفتې په پیل کې ویلي چې ټورنمنټ باید د نومبر یا دسمبر په میاشتو کې ترسره شي۔,O S-ORGANIZATION B-DESIGNATION B-PERSON O O O O O O O O O O O O S-DATE O S-DATE O O O O O
+1935,Sentence:2119,tok 6: B never closed (next entity starts) | tok 8: B never closed (next entity starts),په پاکستاني نژاد منتخب غړو کې، شبانہ محمود لارډ نذیر احمد رحمان چستی او خالد محمود هم ګډون کوي۔,O O O O O O B-PERSON O B-PERSON O O B-PERSON E-PERSON O B-PERSON E-PERSON O O O
+1945,Sentence:2129,tok 16: B never closed (next entity starts) | tok 17: B never closed (next entity starts),په تیونس کې راغلی بدلون په لږ وخت کې ټولې سیمې ته خپور شو، او په مصر لیبیا یمن او شام کې ورته تحریکونه پیل شول۔ تیونس یوازینی هیواد دی چې د عرب سپرنګ پر مهال راغلی بدلون په کې پایدار پاتې شوی۔,O S-LOCATION O O O O O O O O O O O O O O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O O O O S-LOCATION O O O O O O O O O O O O O O O O
+1967,Sentence:2151,tok 17: B never closed (next entity starts) | tok 19: B never closed (next entity starts) | tok 20: B never closed (next entity starts) | tok 21: B never closed (next entity starts),د طوفانونو نومونه ټاکونکې د هېوادونو اداره ناردرن انڈین اوشیئن نیمز کې د پاکستان او بھارت ترڅنګ، بنگلہ دیش مالدیپ میانمار عمان سری لنکا او تھائی لینڈ شامل دي۔,O O O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O S-LOCATION O S-LOCATION O B-LOCATION O B-LOCATION B-LOCATION B-LOCATION B-LOCATION E-LOCATION O B-LOCATION E-LOCATION O O
+1968,Sentence:2152,tok 16: B never closed (sentence ends),د سعودی عرب د ښځو د موټر چلولو پر بندیز د لومړي کالیزې په موقع، د چھبیس اکتوبر</DATE>، یو ځل بیا د موټر چلولو د حق غوښتنه تکرار شوه۔,O B-LOCATION E-LOCATION O O O O O O O O O O O O O B-DATE O O O O O O O O O O O O
+2004,Sentence:2188,tok 13: B never closed (sentence ends),تر دې وړاندې، په حیرانوونکي ډول څرګند شوو نتایجو کې مهمه چاپیریالي فعاله مارینا سلوا چې په یوه پړاو کې د خوښې وړ شخصیت ګڼل کېده، اوس د ولسمشرۍ سیالۍ څخه بهر ده۔,O O O O O O O O O O O O O B-PERSON O O O O O O O O O O O O O O O O O O O
+2006,Sentence:2190,tok 8: B never closed (sentence ends),"د نتایجو په اړه د غبرګون په توګه، جیلما روسیف چې څلور کاله یې د صدر په توګه دنده ترسره کړې، ویلي چې خلکو د تېر	O
+Sentence:2190	وخت	O
+Sentence:2190	د	O
+Sentence:2190	روحونو،	O
+Sentence:2190	اقتصادي	O
+Sentence:2190	بحران	O
+Sentence:2190	او	O
+Sentence:2190	بې	O
+Sentence:2190	روزګارۍ رد وکړ۔",O O O O O O O O B-PERSON O O O O O O O O O O O O O O O O O O O
+2023,Sentence:2207,tok 4: B never closed (next entity starts),د څېړنیزې ډلې مشر جیم کولنز چې هم په بوسټن او هم په هارورډ پوهنتونونو کې دنده لري، وايي چې دغه بیولوژیکي اجزا یوازې د اوبو په ورګډولو سره فعالېدای شي۔,O O O S-DESIGNATION B-PERSON O O O O S-ORGANIZATION O O O S-ORGANIZATION O O O O O O O O O O O O O O O O O
+2032,Sentence:2216,tok 0: B never closed (next entity starts),لامي ماریا او هاجره د اپرېل په میاشت کې د نایجیریا د شمال ختیځ ښار چبوک له ښوونځي تښتول شوې وې۔,B-PERSON S-PERSON O S-PERSON O O O O O O S-LOCATION O O O O S-LOCATION O O O O O
+2072,Sentence:2256,tok 25: B never closed (next entity starts) | tok 31: B never closed (sentence ends),یادونه کېږي چې د شام او ترکی د پولې په سر د دولت اسلامیه جنګیالیو او ترک پوځ تر منځ د اور تبادلې پر مهال ۱ ترک سرتېری وژل شوی او ۲ ټپیان شوي وو۔,O O O O S-LOCATION O S-LOCATION O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O B-NUMBER O O O O O B-NUMBER O O O
+2104,Sentence:2288,tok 5: B never closed (next entity starts),په دې ۳ کسانو کې عبدالله الظہیر حسین المرہون او علی النمر شامل دي، چې د دوی په محاکمو د نړۍ په کچه نيوکې شوې دي۔,O O S-NUMBER O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O O O
+2177,Sentence:2361,tok 0: B never closed (next entity starts) | tok 6: B never closed (next entity starts) | tok 8: B never closed (next entity starts),یورپیئن کلب ایسوسی ایشن چې پکې مانچیسټر یونایټډ لیورپول بارسیلونا او بیئرن میونخ شامل دي.,B-ORGANIZATION O O O O O B-ORGANIZATION O B-ORGANIZATION S-ORGANIZATION O B-ORGANIZATION E-ORGANIZATION O O
+2211,Sentence:2395,tok 8: B never closed (next entity starts) | tok 10: B never closed (next entity starts),د پاکستاني اصل منتخب غړو په منځ کې شبانہ محمود لارډ نذیر احمد رحمان چستی او خالد محمود هم ګډون کوي۔,O O O O O O O O B-PERSON O B-PERSON O O B-PERSON E-PERSON O B-PERSON E-PERSON O O O
+2221,Sentence:2405,tok 14: B never closed (next entity starts) | tok 15: B never closed (next entity starts),په تونس کې راغلې بدلون ډېر ژر ټولې سیمې ته خپور شو او په مصر لیبیا یمن او شام کې ورته تحرکاتو زیږون وکړ۔,O S-LOCATION O O O O O O O O O O O O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O O O O
+2233,Sentence:2417,tok 6: B never closed (next entity starts) | tok 9: B never closed (next entity starts),تر دې سربېره، سیکولر ګوندونه لکه کانګرس فار ریپبلک سیکولر ډیموکریټیک فورم او د پخواني ولسمشر زین العابدین بن علي پخواني چارواکي هم په انتخاباتو کې برخه اخلي۔,O O O O O O B-ORGANIZATION O O B-ORGANIZATION O O O O O S-DESIGNATION B-PERSON I-PERSON I-PERSON E-PERSON O O O O O O O O
+2244,Sentence:2428,tok 22: B never closed (next entity starts) | tok 24: B never closed (next entity starts) | tok 25: B never closed (next entity starts) | tok 26: B never closed (next entity starts),د طوفانونو د نوم ایښودو هېوادونو تنظیم چې ورته ناردرن انډین اوشین نیمز ویل کېږي، پکې د پاکستان او هند تر څنګ بنګله دېش مالدیو میانمار عمان سریلانکا او تایلنډ شامل دي۔,O O O O O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O S-LOCATION O S-LOCATION O O B-LOCATION O B-LOCATION B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O
+2283,Sentence:2467,tok 12: B never closed (sentence ends),تر دې وړاندې، د حیرانتیا وړ پایلو له مخې، مهمه چاپېریالي فعاله مارینا سلوا چې یوه موده کې تر ټولو خوښېدونکې شخصیت ګڼل کېده، اوس د ولسمشرۍ له سیالۍ څخه وتلې ده۔,O O O O O O O O O O O O B-PERSON O O O O O O O O O O O O O O O O O O O
+2298,Sentence:2515,tok 0: B never closed (next entity starts),لامی</PERSON>: مونږ هغه وخت لا هم په ښوونځي کې وو چې د بوکو حرام درې غړي دننه را ننوتل.,B-PERSON O O O O O O O O O O O B-ORGANIZATION E-ORGANIZATION S-NUMBER O O O O
+2312,Sentence:2529,tok 0: B never closed (sentence ends),هجره</PERSON>: کله چې زما وار راغی چې پورته شم، موټر لا دمخه ډک شوی وو.,B-PERSON O O O O O O O O O O O O O O
+2333,Sentence:2550,tok 9: B never closed (next entity starts),هغه شرکت چې د چین گوگل بلل کېږي، یعنې بائیدو د هغې مالک رابن لی د شتمنۍ له مخې د چودہ اعشاریہ سات میلیارد ډالرو له شتمنۍ سره دویم مقام لري.,O O O O S-LOCATION S-ORGANIZATION O O O B-ORGANIZATION O O O B-PERSON E-PERSON O O O O O B-NUMBER I-NUMBER E-NUMBER O O O O O O O O
+2335,Sentence:2552,tok 8: B never closed (sentence ends),د چین یوه بله آنلاین کمپنۍ ٹینسینٹ مالک ما ہواٹینگ چې پوني ما هم بلل کېږي، د شتمنۍ له مخې درېیم نمبر لري.,O S-LOCATION O O O O S-ORGANIZATION O B-PERSON O O O O O O O O O O O O O O
+2338,Sentence:2555,tok 0: B never closed (next entity starts),نومبر نولس سوه څلور اویا دیارلسم</DATE>، په نیویارک کې د اقوام متحدہ مرکزي دفتر کې هغه ورځ سخته امنیتي فضا وه.,B-DATE O O O O O O S-LOCATION O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O
+2341,Sentence:2558,tok 16: B never closed (next entity starts) | tok 20: B never closed (sentence ends),په هغه وخت کې، د یاسر عرفات نژدې کس او وروسته د فلسطین د ادارې لومړی د بهرنیو چارو وزیر نبیل شاط لا هم هغه ورځ په یاد لري.,O O O O O B-PERSON E-PERSON O O O O O O O O O B-DESIGNATION O O O B-PERSON O O O O O O O O
+2347,Sentence:2564,tok 17: B never closed (next entity starts),بلې ورځې دا وینا د نړۍ د هر لوی اخبار سرلیک شوه، او د دې وینا له نهه ورځو</TIME>و دننه اقوام متحدہ خپله پرېکړه شمېره ۳۲۳۷ منظوره کړه او پی ایل او ته یې په اقوام متحدہ کې د ناظر (مبصر) حیثیت ورکړ.,O O O O O O O O O O O O O O O O O B-TIME O O B-ORGANIZATION E-ORGANIZATION O O O S-NUMBER O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O B-ORGANIZATION E-ORGANIZATION O O O O O O
+2385,Sentence:2604,tok 0: B never closed (next entity starts),اپیندرناتھ اشک پروفیسر عقیل رضوي او ډاکټر محمد حسن ورسره ناست وو.,B-PERSON O S-DESIGNATION B-PERSON E-PERSON O S-DESIGNATION B-PERSON E-PERSON O O O
+2390,Sentence:2610,tok 7: B never closed (next entity starts),بیا یې پکې بدلون راوست او د فراق فیض او مها دیوي ورما نومونه یې ور زیات کړل.,O O O O O O O B-PERSON S-PERSON O B-PERSON I-PERSON E-PERSON O O O O O
+2419,Sentence:2639,tok 19: B never closed (next entity starts),کرد ځواکونه وایي چې دوی د سوریې په هغه ښارګوټي کې چې د ترکیې پولې ته نږدې دی، یعنی کوباني د اسلامي دولت جنګیالي شاته تمبولي دي.,B-ORGANIZATION E-ORGANIZATION O O O O S-LOCATION O O O O O O O O O O O O B-LOCATION O B-ORGANIZATION E-ORGANIZATION O O O O
+2458,Sentence:2678,tok 0: B never closed (sentence ends),دولتِ اسلامیه چې شعیه مسلمانان بدعتي ګڼي، د دې برید مسؤلیت منلی دی.,B-ORGANIZATION O O O O O O O O O O O O
+2525,Sentence:2745,tok 30: B never closed (next entity starts),د شنبې په ورځ د سعودي عربستان د وزارت داخلہ لخوا په یو بیان کې ویل شوي چې نیول شوي جنګیالیو کې ډېری د سعودي اتباع دي، خو پکې د شام یمن او نورو شپږ هېوادونو اتباع هم شامل دي۔,O O O O O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O S-LOCATION O O O O O B-LOCATION S-LOCATION O O S-NUMBER O O O O O
+2600,Sentence:2820,tok 6: B never closed (next entity starts),په دې درې کسانو کې د عبدالله الظهیر حسین المرہون سربېره علي النمر هم شامل دی، چې پر قضیه یې په ټوله نړۍ کې نیوکې شوې وې۔,O O S-NUMBER O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O O O
+2664,Sentence:2884,tok 5: B never closed (next entity starts) | tok 10: B never closed (next entity starts),د پیپلزپارٹی د پنجاب مشران صمصام بخاری اشرف سوہنا او عارف لاشاری د ضلعې اوکاڑہ سره تړلې ټوله تنظيم، تحریک انصاف سره يوځای شوه۔,O S-ORGANIZATION O S-LOCATION O B-PERSON O B-PERSON E-PERSON O B-PERSON O O O S-LOCATION O O O O B-ORGANIZATION E-ORGANIZATION O O O
+2666,Sentence:2886,tok 1: B never closed (next entity starts) | tok 25: B never closed (next entity starts),وروسته صمصام بخاری اشرف سوہنا او عارف لاشاری د بنی گالہ په سیمه کې د تحریک انصاف له چیرمین عمران خان سره ولیدل، چې پکې شاہ محمود قریشی جہانگیر ترین او نور د ګوند مشران هم شامل وو، او په دې موقع د پیپلز پارٹی مشرانو د تحریک انصاف سره د یو ځای کېدو اعلان وکړ.,O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O B-LOCATION E-LOCATION O O O O B-ORGANIZATION E-ORGANIZATION O O B-PERSON E-PERSON O O O O B-PERSON O O B-PERSON E-PERSON O O O O O O O O O O O O O B-ORGANIZATION E-ORGANIZATION O O B-ORGANIZATION E-ORGANIZATION O O O O O O O
+2712,Sentence:2932,tok 8: B never closed (next entity starts),په وژل شوو کې د ګوند مهم مشران بشیر بلور د میاں افتخار حسین زوی عالم زیب خان او نور مشران شامل دي۔,O O O O O O O O B-PERSON O O B-PERSON I-PERSON E-PERSON O B-PERSON I-PERSON E-PERSON O O O O O
+2714,Sentence:2934,tok 35: B never closed (next entity starts) | tok 39: B never closed (next entity starts) | tok 42: B never closed (next entity starts),بل لور ته، په سوات کې د دو زره دیارلسم کال په پرتله د دو زره څوارلسم کال په جرمونو کې ۳۰ سلنه زیاتوالی راغلی، چې د حکومتي شمېرو له مخې تر اوسه د قتل ۶۹ ، د قتل هڅې ۵۴ ، د ترهګرۍ ۱۵ ، او د هدف پر بنسټ وژنې ۹ پېښې ثبت شوي دي۔,O O O O S-LOCATION O O B-DATE I-DATE E-DATE O O O O B-DATE I-DATE E-DATE O O O O S-NUMBER O O O O O O O O O O O O O B-NUMBER O O O B-NUMBER O O B-NUMBER O O O O O O S-NUMBER O O O O
+2745,Sentence:2966,tok 13: B never closed (next entity starts) | tok 18: B never closed (next entity starts) | tok 23: B never closed (next entity starts) | tok 26: B never closed (next entity starts) | tok 31: B never closed (next entity starts) | tok 33: B never closed (next entity starts),د یو رسمي اعلامیې له مخې، په غونډه کې د صوبې وزیر داخلہ میر سرفراز بگٹی جنرل لیفٹیننٹ ناصر جنجوعہ چیف سیکریٹری بلوچستان سیف اللہ چٹھہ جنرل کمانڈنگ آفیسرز آئی جی ایف سی سیکریٹری داخلہ آئی جی پولیس او نور اړوند چارواکو ګډون وکړ۔,O O O O O O O O O O O B-DESIGNATION E-DESIGNATION B-PERSON O O B-DESIGNATION E-DESIGNATION B-PERSON O B-DESIGNATION E-DESIGNATION S-LOCATION B-PERSON O O B-DESIGNATION O O B-DESIGNATION E-DESIGNATION B-ORGANIZATION O B-DESIGNATION O B-DESIGNATION E-DESIGNATION S-ORGANIZATION O O O O O O
+2752,Sentence:2973,tok 9: B never closed (next entity starts),جیو گروپ د حکومتي کمپاین برخه ده، او نور څلور ، پنځه لوی چینلونه د حکومت ضد کمپاین برخه دي، او له همدې امله دغه خپرونې ته دومره زیاته پوښښ ورکول کیږي۔,B-ORGANIZATION E-ORGANIZATION O O O O O O O B-NUMBER S-NUMBER O O O O O O O O O O O O O O O O O O O O
+2754,Sentence:2975,tok 2: B never closed (next entity starts),سینئر خبریال ضیاالدین او په پاکستان کې د خبریالانو د تنظیمونو فعال کردار، او سینئر خبریال مظهر عباس هم د بحث او مباحثې په پروګرامونو کې برخه اخلي۔,O S-DESIGNATION B-PERSON O O S-LOCATION O O O O O O O O O S-DESIGNATION B-PERSON E-PERSON O O O O O O O O O O
+2761,Sentence:2982,tok 2: B never closed (sentence ends),سینیئر خبریال ضیالدین احمد چې د هیواد د نوموتو انګریزي اخبارونو مدیر پاتې شوی، وایي چې اوس د خبر او نظر پالیسي د مالکانو په لاس کې ده۔,O S-DESIGNATION B-PERSON O O O O O O O O O O O O O O O O O O O O O O O O O
+2787,Sentence:3008,tok 17: B never closed (sentence ends),سربېره پر دې، پر اوسني وزیر اعظم باندې په ۱۹۹۹ کال کې د وفاقي پلټنو ادارې، یعني ایف آی اې کې د ناقانونه ګمارنو تور هم لګول شوی دی۔,O O O O O B-PERSON E-PERSON O O B-DATE E-DATE O O O O O O B-ORGANIZATION O O O O O O O O O O O
+2793,Sentence:3014,tok 21: B never closed (next entity starts),د قامي احتساب بیورو په دې راپور کې د پخواني وزیر اعلیٰ بلوچستان نواب اسلم رئیسانی ترڅنګ، پخواني فدرالي وزیر داخله آفتاب احمد خان شېرپاؤ پخوانۍ فدرالي وزیر اطلاعات فردوس عاشق اعوان او همدارنګه په امریکا کې د پاکستان پخوانی سفیر حسین حقاني هم شامل دي۔,O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O B-DESIGNATION E-DESIGNATION S-LOCATION B-PERSON I-PERSON E-PERSON O O O B-DESIGNATION E-DESIGNATION B-PERSON O O O O O B-DESIGNATION E-DESIGNATION B-PERSON I-PERSON E-PERSON O O O S-LOCATION O O S-LOCATION O S-DESIGNATION B-PERSON E-PERSON O O O
+2794,Sentence:3015,tok 35: B never closed (next entity starts),په دغو کسانو تور دی چې دوی د خپلو واکونو نه ناسم استفاده کړې، په ځانګړې توګه پر حسین حقاني تور دی چې د اطلاعاتو د سیکرتر په توګه یې دریو مختلفو کمپنیو ته په لاهور اسلام‌اباد او کراچي کې د ایف ایم راډیو سټېشن جوازونه له اصولو څخه بهر ورکړي وو۔,O O O O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O O O O O O O O O O O O O B-LOCATION S-LOCATION O S-LOCATION O O O O O O O O O O O O O
+2797,Sentence:3018,tok 11: B never closed (next entity starts),په دې بیوروکریټانو کې د فیډرل بورډ آف ریونیو پخوانی چیئرمین عبدالله یوسف ارشد حکیم او سلمان صدیق شامل دي، ترڅنګ د اوبو او بریښنا پخواني سیکریټري شاهِد رفیع او اسماعیل قریشي هم پکې شامل دي۔,O O O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O S-DESIGNATION B-PERSON E-PERSON O B-PERSON E-PERSON O O O O
+2822,Sentence:3043,tok 2: B never closed (next entity starts) | tok 7: B never closed (next entity starts),پخوانی وزیر محمود زیب د محکمې پخوانی سیکریٹری انسپکټران، او اوسنی کمشنر بنوں په ګډون نور نهه کسان هم د جمعې په ورځ عدالت ته وړاندې کړل شول۔,O O B-PERSON O O O O B-DESIGNATION O O O S-DESIGNATION S-LOCATION O O O O O O O O O O O O O O O
+2837,Sentence:3058,tok 15: B never closed (sentence ends),د عدالتي کمېسیون نور قاضيان په کې شامل دي: جسټس امیر هاني مسلم او جسټس اعجاز افضل خان</PERSON>۔,O B-ORGANIZATION E-ORGANIZATION O O O O O O S-DESIGNATION B-PERSON I-PERSON E-PERSON O S-DESIGNATION B-PERSON O O
+2885,Sentence:3106,tok 14: B never closed (next entity starts),هغه وویل چې په پارلیمان باندې د نورو ګوندونو واک دی، چا چې د نیب الیکشن کمیشن او نګران حکومتونه د خپلې خوښې سره سم جوړ کړي دي۔,O O O O S-ORGANIZATION O O O O O O O O O B-ORGANIZATION B-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O
+2928,Sentence:3149,tok 35: B never closed (next entity starts),د سرکاري خبري آژانس APP له مخې، د فدرالي د کورنیو چارو وزیر په لیکلي ځواب کې ویل شوي چې د ترهګرۍ پر ضد جګړه کې اته څلوېښت اربه روپۍ لګول شوي، چې پکې د اسلام‌ آباد د هیواد قبایلي سیمې، او خیبر پښتونخوا لګښتونه شامل دي۔,O O O O S-ORGANIZATION O O O O O O O O O O O O O O O O O O O O O B-NUMBER I-NUMBER E-NUMBER O O O O O O B-LOCATION O O O O O O B-LOCATION E-LOCATION O O O
+2943,Sentence:3164,tok 10: B never closed (next entity starts) | tok 11: B never closed (next entity starts) | tok 12: B never closed (next entity starts),په سېلاب کې اووه کلي لاهو شوي دي، چې پکې وریجون کشوم موشگول استروو او اتھول شامل دي۔,O O O S-NUMBER O O O O O O B-LOCATION B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O
+2993,Sentence:3214,tok 61: B never closed (sentence ends),خو کله چې هغه د انتخاباتي درغلیو په اړه د ملي اسمبلۍ د څلورو حلقو د خلاصولو په اړه د پاکستان تحریک انصاف غوښتنه د ترجیحي بنسټ پر اساس د اورېدو نه انکار وکړ او افتخار چودھري تقاعد شو، نو د پاکستان تحریک انصاف مشرتابه د منظمې درغلیو ټول تورونه پر پخواني چیف جسٹس واچول، نه د کوم خفیې ادارې پر بریگیډیر</DESIGNATION>۔,O O O O O O O O O O O O O S-NUMBER O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O B-PERSON E-PERSON O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O B-DESIGNATION E-DESIGNATION O O O O O O O B-DESIGNATION
+3007,Sentence:3228,tok 5: B never closed (next entity starts),بل‌خوا، د اپوزېسیون له اړخه اجمل میاں رانا بھگوان داس او جسٹس ریټایرډ طارق پرویز نومونه وړاندې شوي دي۔,O O O O O B-PERSON O B-PERSON I-PERSON E-PERSON O S-DESIGNATION O B-PERSON E-PERSON O O O O
+3019,Sentence:3241,tok 5: B never closed (next entity starts) | tok 13: B never closed (next entity starts),"هغه د پوځ مشر جنرال راحیل شریف د آی ایس آی ډي جی رضوان اختر او د رینجرز ډي جی میجر جنرل بلال ته په خطاب کې وویل، تاسو	O
+Sentence:3241	زما	O
+Sentence:3241	خبرو	O
+Sentence:3241	ته	O
+Sentence:3241	غلط	O
+Sentence:3241	تعبیر	O
+Sentence:3241	مه	O
+Sentence:3241	ورکوئ،	O
+Sentence:3241	موږ	O
+Sentence:3241	د	O
+Sentence:3241	پوځ	O
+Sentence:3241	دښمن	O
+Sentence:3241	نه	O
+Sentence:3241	یو.",O O O O S-DESIGNATION B-PERSON O O B-DESIGNATION I-DESIGNATION E-DESIGNATION B-DESIGNATION E-DESIGNATION B-PERSON O O O S-ORGANIZATION B-DESIGNATION E-DESIGNATION B-DESIGNATION E-DESIGNATION S-PERSON O O O O O O
+3029,Sentence:3251,tok 20: B never closed (next entity starts) | tok 25: B never closed (next entity starts) | tok 29: B never closed (next entity starts),ادارې له خوا خپاره شوي معلومات ښيي چې د بارانونو او سېلاب له امله تر اوسه پورې په بلوچستان کې اته ، په خیبر پښتونخوا کې ۳۸ ، په پنجاب کې ۱۱ ، په کشمیر کې ۱۹ او په ګلګت بلتستان کې ۵ کسان وژل شوي دي.,O O O O O O O O O O O O O O O O O O S-LOCATION O B-NUMBER O B-LOCATION E-LOCATION O B-NUMBER O S-LOCATION O B-NUMBER O S-LOCATION O S-NUMBER O O B-LOCATION E-LOCATION O S-NUMBER O O O O
+3040,Sentence:3262,tok 8: B never closed (next entity starts),بهټو د ۱۹۷۱ نه تر ۱۹۷۷ پورې د چیف مارشل لا ایډمنسټریټر صدر او وروسته وزیراعظم په توګه واکمن و، او د قتل په یوه قضیه کې د ۴ اپرېل ۱۹۷۹ نېټه یې اعدام وشو.,S-PERSON O S-DATE O O S-DATE O O B-DESIGNATION O O O S-DESIGNATION O O S-DESIGNATION O O O O O O O O O O O O B-DATE I-DATE E-DATE O O O O
+3050,Sentence:3272,tok 9: B never closed (next entity starts),دا درخواستونه د پاکستان مسلم لیگ ق د مشر چودھري شجاعت حسین د پاکستان تحریک انصاف له خوا اسحاق خاکواني او گوهر نواز سندھو له لوري داخل شوې وې.,O O O B-ORGANIZATION I-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O S-DESIGNATION B-PERSON O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O B-PERSON E-PERSON O B-PERSON I-PERSON E-PERSON O O O O O
+3066,Sentence:3288,tok 8: B never closed (next entity starts),د څارنې ذمه واري د پولیس ځانګړې څانګې، سی آی ډي او انټيليجنس بیورو ته سپارل شوې وه، او د دغو ادارو کارکوونکو ته په دې برخه کې د سیمه ییزو پولیسو له خوا مرسته هم ورکړل شوې وه.,O O O O O S-ORGANIZATION O O B-ORGANIZATION O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O O O O O O O O O O O O
+3082,Sentence:3304,tok 28: B never closed (sentence ends),تر دې وړاندې، د جنورۍ په څلورمه نېټه د شمالي وزیرستان د تحصیل دتہ خیل په سیمه کې د الوړه منډۍ سره نېږدې د ناقانونه ګرځول شوې ډلې، تحریک طالبان یوه څانګې پر مرکز شوی برید کې اووه مشکوک کسان وژل شوي وو.,O O O O O O O O O B-LOCATION E-LOCATION O B-LOCATION I-LOCATION E-LOCATION O O O O B-LOCATION E-LOCATION O O O O O O O B-ORGANIZATION O O O O O O O O O O O O O O
+3095,Sentence:3317,tok 5: B never closed (next entity starts),د ډایرکټر ایف آی اې سندھ شاهِد حیات، د کراچۍ میونسپل کارپورېشن د تعلیم په څانګه کې د پراخ فساد انکشاف کړی دی.,O S-DESIGNATION B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION B-LOCATION O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O
+3110,Sentence:3332,tok 14: B never closed (next entity starts),د تحصیل شوغور څخه څو ورځې مخکې پلي سفر کړی او چترال ته رسېدلی عبدالمجید خان د بي بي سي سره په خبرو کې ویلي چې په هغه سیمه کې پراخه تباهي شوې ده.,O O S-LOCATION O O O O O O O O S-LOCATION O O B-PERSON O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O O O O O O O O
+3136,Sentence:3358,tok 21: E without matching B | tok 23: E without matching B,دا پرېکړه د پنجشنبې په ورځ د وزیر اعظم نواز شریف په مشرۍ د یوې غونډې پر مهال وشوه، چې د NA-<NUMBER>122 او NA-<NUMBER>154 حلقو کې د ضمني (فرعي) انتخاباتو لپاره لاره هواره شي، نو له همدې امله د دغو حلقو په اړه د ټریبیونل پرېکړې پر ضد اپیل نه کېږي۔,O O O O O O O B-DESIGNATION E-DESIGNATION B-PERSON E-PERSON O O O O O O O O O O E-NUMBER O E-NUMBER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3157,Sentence:3379,tok 9: B never closed (next entity starts) | tok 11: B never closed (sentence ends),د رینجرز یو چارواکي، کرنل امجد وویل چې د تحریک طالبان لشکرِ جهنګوي سیاسي ګوندونو وسله‌والو څانګو او لیاري ګېنګ وار پر ضد عملیات شوي دي۔,O S-ORGANIZATION O O S-DESIGNATION S-PERSON O O O B-ORGANIZATION O B-ORGANIZATION O O O O O O O O O O O O O O
+3165,Sentence:3387,tok 20: B never closed (next entity starts) | tok 21: B never closed (next entity starts),په پېښور کې، د بډا پیر په سیمه کې د پاکستان فضائیه پر اډه د برید نه وړاندې، همدا راز کراچۍ کوټه کامرہ او پېښور کې د هوايي ځواکونو اډې او هوايي ډګرونه په نښه شوي وو۔,O S-LOCATION O O B-LOCATION E-LOCATION O O O O B-ORGANIZATION E-ORGANIZATION O O O O O O O O B-LOCATION B-LOCATION S-LOCATION O S-LOCATION O O O O O O O O O O O O
+3173,Sentence:3395,tok 17: B never closed (sentence ends),"د پاکستان پوځ تېر کال په وزيرستان او نورو سيمو کې د منع شويو ترهګريزو ډلو لکه تحريک طالبان ازبک، چيچن او نورو پر ضد د ضرب	O
+Sentence:3395	عضب عمليات پيل کړل.",O O O O O O S-LOCATION O O O O O O O O O O B-ORGANIZATION O O O O O O O O O O O O
+3224,Sentence:3446,tok 12: B never closed (next entity starts),اوس مهال پولیو یوازې په درېو هېوادونو کې موجوده ده، چې پکې پاکستان نایجیریا او افغانستان شامل دي.,O O O O O O O O O O O O B-LOCATION S-LOCATION O S-LOCATION O O
+3228,Sentence:3450,tok 24: B never closed (next entity starts) | tok 25: B never closed (next entity starts) | tok 26: B never closed (next entity starts),د ملګرو ملتونو په وینا، له پولیو اغېزمن ۳ هېوادونه د نړۍ د ماشومانو لپاره خطر ګڼل کېږي، او د پولیو ویروس چې په شام صومالیا عراق کامرون او منځنۍ افریقا کې موندل شوی، ریښې یې له پاکستان او نایجیریا سره تړاو لري.,O B-ORGANIZATION E-ORGANIZATION O O O O O S-NUMBER O O O O O O O O O O O O O O O B-LOCATION B-LOCATION B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O O O O O O S-LOCATION O S-LOCATION O O O
+3229,Sentence:3451,tok 30: B never closed (next entity starts),د عوامي تحریک مشر ډاکټر طاهرالقادري د ماډل ټاؤن پېښې په تړاو د حکومت له لوري د دیت یا تاوان تصور رد کړی او ویلي یې دي، چې زموږ مجرمان وزیراعظم د پنجاب وزیراعلی او د پنجاب حکومت ده. هغه ویلي، د شهیدانو د وینې بدل به په وینه ورکول کېږي.,O B-ORGANIZATION E-ORGANIZATION O S-DESIGNATION S-PERSON O B-LOCATION E-LOCATION O O O O O O O O O O O O O O O O O O O O O B-PERSON B-PERSON I-PERSON E-PERSON O O O O O O O O O O O O O O O O O
+3243,Sentence:3465,tok 13: B never closed (next entity starts),د پاکستان له خوا، یاسر شاه ۶ ویکټې واخیستې، پداسې حال کې چې ذوالفقار بابر محمد حفیظ او جنید خان هر یوه یوه ویکټ واخیسته.,O S-LOCATION O O B-PERSON E-PERSON S-NUMBER O O O O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O
+3259,Sentence:3481,tok 29: E without matching B,د پاکستان کرکټ پخواني کپتان رمیز راجه په اند، دا خبره د منلو نه ده چې ویکټ کیپر بیټسمین سرفراز احمد ته د سري لنکا پر ضد په دواړو T<NUMBER>20 نړیوالو سیالیو کې لوبه ورنه کړل شوه.,O O O O S-DESIGNATION B-PERSON E-PERSON O O O O O O O O O O O O B-PERSON E-PERSON O O B-LOCATION E-LOCATION O O O O E-NUMBER O O O O O O O
+3318,Sentence:3542,tok 9: B never closed (next entity starts),د پاکستان کرکټ ټیم کپتان مصباح الحق او روزونکی وقار یونس له نړیوال کرکټ څخه د استعفا ورکوونکو لوبغاړو کمار سنگاکارا او مائیکل کلارک ته ستر لوبغاړي وبلل، خو هغوی دا هم وویل چې مائیکل کلارک چې په کوم حالت کې له کرکټ څخه رخصتېږي، هغوی ته پرې خواشیني ده.,O O O O S-DESIGNATION B-PERSON E-PERSON O O B-PERSON O O O O O O O O O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O B-PERSON E-PERSON O O O O O O O O O O O O O O
+3363,Sentence:3587,tok 18: B never closed (next entity starts),هغه لوبغاړي چې د سوپر لیګ کې یې د ګډون لیوالتیا څرګنده کړې، په کې د سریلانکا کپتان انجیلو میتھیوز تلکارتنے دلشان او لاستھ مالینګا شامل دي.,O O O O O O O O O O O O O O O O S-LOCATION O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O
+3365,Sentence:3589,tok 1: B never closed (next entity starts) | tok 2: B never closed (next entity starts),د اسټرالیا انګلستان نیوزیلېنډ او جنوبی افریقا څخه هم دوه ـ دوه کرکټران د سوپر لیګ لوبو ته لیواله دي.,O B-LOCATION B-LOCATION S-LOCATION O B-LOCATION E-LOCATION O O O O O O O O O O O O O
+3381,Sentence:3605,tok 42: B never closed (sentence ends),هند بالاخره د بنګال جادو ختم کړ، د کلین سویپ لپاره د بنګله‌دېش هیلې نیمګړې پاتې شوې، مېلمنو ټیم درېیمه یو ورځنۍ لوبه د ۷۷ منډو په توپیر وګټله، خو سیالي یې بیا هم ۲–۱ له لاسه ورکړه او بنګله‌دېش دا سیریز ۳ –۰ وګاټه۔,S-LOCATION O O S-LOCATION O O O O O O O O S-LOCATION O O O O O O O O O O O S-NUMBER O O O O O O O O O S-NUMBER O O O O S-LOCATION O O B-NUMBER O
+3430,Sentence:3654,tok 11: B never closed (next entity starts),په سپاټ فکسینګ کې ښکېلو نورو دوو لوبغاړو، محمد آصف او سلمان بټ هم غوښتنه کړې وه چې ورته نرمي وشي. دوی له دې امله پاکستان کرکٹ بورڈ باندې نیوکه کړې وه چې یوازې د محمد عامر قضیه یې راپورته کړې.,O O O O O O O O B-PERSON E-PERSON O B-PERSON O O O O O O O O O O O O O B-ORGANIZATION I-ORGANIZATION E-ORGANIZATION O O O O O O O B-PERSON E-PERSON O O O O
+3438,Sentence:3662,tok 4: B never closed (next entity starts),په همدې میدان کې پاکستان آسټرالیا ته د 356 منډو په لوی توپیر سره ماتې ورکړې وه چې دا د پاکستان د ټیسټ کرکټ تر ټولو ستره بریا وه.,O O O O B-LOCATION S-LOCATION O O O O O O O O O O O O O O O O O O O O O O O
+3444,Sentence:3668,tok 7: B never closed (next entity starts) | tok 10: B never closed (next entity starts) | tok 12: B never closed (next entity starts) | tok 13: B never closed (next entity starts),د نیوزی لینډ اوسني ټیم کې کپتان برېنډن مک کیولم راس ټیلر وېلیمسن بی جې واټلینګ او د یو ورځنیو لوبو تر ټولو تېزه سلیزه وهونکی کوري اندرسن شامل دي.,O B-LOCATION E-LOCATION O O O O B-PERSON O O B-PERSON O B-PERSON B-PERSON O O O O O O O O O O O O B-PERSON E-PERSON O O
+3466,Sentence:3690,tok 7: B never closed (next entity starts) | tok 13: B never closed (next entity starts) | tok 15: B never closed (next entity starts) | tok 17: B never closed (next entity starts),د دې ټور لپاره د هند کپتان مهندر سنگهـ دهوني د ټېسټ کپتان وراټ کوهلي سوریش رینا آر اشون او رویندر جڈیجا ته هم استراحت ورکړل شوی دی.,O O O O O O O B-PERSON O O O O O B-PERSON O B-PERSON O B-PERSON O O B-PERSON E-PERSON O O O O O O
+3481,Sentence:3705,tok 2: B never closed (next entity starts),خو اوس نیوزیلینډ پلیئرز اتحادیه د مالي ستونزو د حل لپاره، له کال ۲۰۱۱ را وروسته، د آسټرالیا پر وړاندې د خپلې لومړۍ ټېسټ لړۍ په ترڅ کې، د یو ټېسټ میچ د مصنوعي رڼا لاندې د ترسره کېدو هوکړه کړې، ځکه چې د دې ټېسټ لړۍ لپاره دوی ته ښه مالي امتیاز ورکول کېږي.,O O B-ORGANIZATION O O O O O O O O O O S-DATE O O O S-LOCATION O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3492,Sentence:3716,tok 2: B never closed (sentence ends),دواړه لوبغاړي، رنگانا هیراتھ هم ونه توانېدل چې د پاکستاني بیټسمینانو قابو ترلاسه کړي، حال دا چې هغوی ته په لومړۍ اننګز کې د بالینګ موقع هم نه وه ورکړل شوې.,O O B-PERSON O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3499,Sentence:3723,tok 2: B never closed (sentence ends),د خپل ۱۰۰ م ټېسټ میچ فشار چې په لومړۍ اننګز کې یې د خلاص ذهن سره د لوبې مخه نیوله، اوس ترې ځان خلاص کړی دی.,O O B-NUMBER O O O O O O O O O O O O O O O O O O O O O O O
+3506,Sentence:3730,tok 0: B never closed (next entity starts) | tok 2: B never closed (next entity starts) | tok 4: B never closed (next entity starts) | tok 6: B never closed (next entity starts) | tok 8: B never closed (next entity starts) | tok 10: B never closed (next entity starts) | tok 12: B never closed (next entity starts) | tok 14: B never closed (next entity starts) | tok 16: B never closed (next entity starts) | tok 18: B never closed (next entity starts) | tok 20: B never closed (next entity starts) | tok 22: B never closed (next entity starts) | tok 24: B never closed (next entity starts) | tok 26: B never closed (next entity starts) | tok 28: B never closed (next entity starts) | tok 30: B never closed (next entity starts) | tok 32: B never closed (next entity starts) | tok 34: B never closed (next entity starts) | tok 36: B never closed (next entity starts) | tok 39: B never closed (sentence ends),احمد شهزاد محمد حفیظ شعیب ملک عمر اکمل بابر اعظم محمد رضوان سرفراز احمد جنید خان اسد شفیق عماد وسیم انور علي عمران خان بلاول بهټي یاسر شاه حماد اعظم سمیع اسلم مختار احمد احسان عادل راحت علي او سعد نسیم</PERSON>.,B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O B-PERSON O O B-PERSON O
+3540,Sentence:3764,tok 11: B never closed (next entity starts) | tok 13: B never closed (next entity starts) | tok 15: B never closed (next entity starts),د کپتان ایلسټر کُک تر مشرۍ لاندې د انګلینډ ټیم کې معین علي جوس بټلر ایډم لائیتھ مارک وډ او عادل رشید هغه لوبغاړي دي چې دا به د دوی لومړنی ایشز سیریز وي.,O O B-PERSON E-PERSON O O O O S-LOCATION O O B-PERSON O B-PERSON O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O
+3542,Sentence:3766,tok 0: B never closed (next entity starts),عادل رشید د انګلینډ له هغه ټیم سره شامل شوی و چې ویسټ انډیز ته تللی و، خو هلته ورته د لوبې کولو موقع نه وه ورکړل شوې.,B-PERSON O O S-LOCATION O O O O O O O O B-LOCATION E-LOCATION O O O O O O O O O O O O O O
+3544,Sentence:3768,tok 1: B never closed (next entity starts) | tok 10: B never closed (sentence ends),په ۲۰۱۳ کال کې له ټېسټ ټیم څخه ایستل شوی سټیفن فن بېرته ټیم ته را وستل شوی دی.,O B-DATE O O O O O O O O B-PERSON O O O O O O O O
+3545,Sentence:3769,tok 4: B never closed (sentence ends),د انګلینډ پخواني کپتان مایکل وان د عادل رشید د ټیم غړی کېدو له امله خوښي څرګنده کړې ده.,O O O S-DESIGNATION B-PERSON O O O O O O O O O O O O O O
+3547,Sentence:3771,tok 4: B never closed (next entity starts) | tok 7: B never closed (sentence ends),د سري لنکا لخوا دهمت کارونارتنه او کوشل سلوا د اننګز پیل کړی.,O O O O B-PERSON O O B-PERSON O O O O O
+3549,Sentence:3773,tok 0: B never closed (next entity starts) | tok 9: B never closed (sentence ends),محمد حفیظ د خپل بولینګ ایکشن له امله، او وهاب ریاض د تیرې لوبې په جریان کې د ټپ له کبله بهر دي.,B-PERSON O O O O O O O O B-PERSON O O O O O O O O O O O O O
+3550,Sentence:3774,tok 0: B never closed (next entity starts) | tok 3: B never closed (next entity starts) | tok 16: B never closed (next entity starts) | tok 18: B never closed (next entity starts) | tok 20: B never closed (next entity starts) | tok 23: B never closed (sentence ends),جنید خان او ذوالفقار بابر هم ټیم ته نه دي شامل شوي. د دوی پر ځای راحت علي، شان مسعود، احسان عادل او عمران خان لوبډله کې اخیستل شوي دي.,B-PERSON O O B-PERSON O O O O O O O O O O O O B-PERSON O B-PERSON O B-PERSON O O B-PERSON O O O O O O
+3551,Sentence:3775,tok 10: B never closed (sentence ends),د ټاس پر وخت د بولنګ انتخاب په اړه کپتان مصباح الحق وویل چې دا پرېکړه د دې لوبغالي له تاریخ او د ویکټ له حالت سره اړه لري.,O O O O O O O O O S-DESIGNATION B-PERSON O O O O O O O O O O O O O O O O O O
+3552,Sentence:3776,tok 12: B never closed (sentence ends),پاکستان په دې میچ کې ۴ فاسټ بالران او یواځې ۱ سپنر، یاسر شاه، لوبولی دی.,O O O O O O O O O O O O B-PERSON O O O
+3598,Sentence:3822,tok 0: B never closed (next entity starts),هند بنګله‌دېش او آیرلنډ خپل خپل سکواډونه اعلان کړي، او نن د چهارشنبې په ورځ پاکستان هم خپل ټيم اعلانوي.,B-LOCATION S-LOCATION O S-LOCATION O O O O O O O O O O O S-LOCATION O O O O
+3616,Sentence:3840,tok 10: B never closed (sentence ends),په تېر نړیوال جام کې هغه تر ټولو زیاتې، یعنې ۲۱ ، ویکټې اخیستې وې.,O O O O O O O O O O B-NUMBER O O O
+3618,Sentence:3842,tok 0: B never closed (next entity starts),شاهد آفریدی چې په ۱۹۹۶ کال کې یې نړیوال کرکټ ته ور ننوت، د خپلې دوهمې لوبې په ترڅ کې د سري لنکا خلاف یواځې په ۳۷ توپونو د تر ټولو چټکې سنچري ریکارډ جوړ کړ.,B-PERSON O O O S-DATE O O O O O O O O O O O O O O O O B-LOCATION E-LOCATION O O O S-NUMBER O O O O O O O O O
+3633,Sentence:3857,tok 0: B never closed (next entity starts),مصباح الحق</PERSON>یوازې ۶ رنونه جوړ کړل او د پردیپ په توپ باندې ایل بي ډبلیو (LBW) آوټ شو، په داسې حال کې چې احسان عادل یو هم رن و نه شو کولای.,B-PERSON O S-NUMBER O O O O O O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O O O O O
+3643,Sentence:3867,tok 3: B never closed (next entity starts),تر دې مخکې، اې بي ډیویلیئرز چې په دې لوبه کې د اوپنر (لومړی توپ وهونکی) په توګه راغلی و، یوازې دوه رنونه یې جوړ کړل او د عرفات سني په توپ د کپتان مشرفی مرتضی په لاس ونیول شو (کیچ آوټ).,O O O B-PERSON O O O O O O O O O O O O O O O O O O O O O O O O B-PERSON E-PERSON O O O S-DESIGNATION B-PERSON E-PERSON O O O O O O
+3653,Sentence:3877,tok 27: B never closed (sentence ends),د پالیکیلې ټیسټ د پنځمې ورځې په پیل کې د پاکستان ټیم له بریا څخه یوازې ۱۴۷ رنونه لیرې و، او دواړه سنچري وهونکي، یونس خان او شان مسعود لا هم پر کریز موجود وو.,O S-LOCATION O O O O O O O O O O O O O O S-NUMBER O O O O O O O B-PERSON E-PERSON O B-PERSON O O O O O O O
+3673,Sentence:3897,tok 4: B never closed (next entity starts),خو وروسته بیا د جو روټ گیری بیلینس او بین سټوکس په زړه‌ پورې بیټنګ سره د انګلستان موقعیت ټینګ شو.,O O O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O S-LOCATION O O O
+3684,Sentence:3908,tok 9: B never closed (next entity starts),په تېره ایشز ټېسټ سیریز کې چې آسټرالیا یې May-۲۰۰۰ سره وګاټه، د بریا مهمه برخه فاسټ بالر مچل جانسن و، خو دا ځل هغه هېڅ ویکټ وانخیسته.,O O O O O O O S-LOCATION O B-NUMBER O O O O O O O O B-PERSON E-PERSON O O O O O O O O
+3702,Sentence:3926,tok 4: E without matching B,د زمبابوې خلاف په T<NUMBER>20 لوبو کې ښه بېټېنګ ښودونکی مختار احمد او بلال آصف د لومړي ځل لپاره د ون ډی ټیم برخه ګرځول شوي دي.,O O O O E-NUMBER O O O O O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O O
+3720,Sentence:3944,tok 14: B never closed (next entity starts),د انګلستان له لوري ټولو بالرانو ښه توپ وهنه وکړه، چې جېمز انډرسن درې، سټوارټ براډ معین علي او مارک ووډ هر یو دوه – دوه ویکټې ترلاسه کړې.,O O O O O O O O O O O B-PERSON E-PERSON O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O
+3735,Sentence:3959,tok 12: B never closed (next entity starts),د پاکستان درېیمه ویکټ د ۱۲۳ رنونو په سکور ولوېده کله چې دلشان بابر اعظم د ۲۵ انفرادي سکور پر ایل بي ډبلیو آوټ کړ.,O O O O O S-NUMBER O O O O O O B-PERSON B-PERSON E-PERSON O S-NUMBER O O O O O O O O
+3749,Sentence:3973,tok 5: E without matching B,د زمبابوې پر وړاندې د T<NUMBER>20 سیالیو کې غوره توپ وهنه کوونکي مختار احمد او بلال آصف لومړی ځل د ونډې (یو ورځني) ټیم برخه جوړ کړل شول.,O S-LOCATION O O O E-NUMBER O O O O O O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O O
+3763,Sentence:3987,tok 2: B never closed (next entity starts),جانسن خپله 11 مه ټیسټ نیمه سلیزه پوره کړه او 77 رنونه جوړولو وروسته د جو روټ دوهم شکار شو.,O O B-NUMBER O O O O O O S-NUMBER O O O O B-PERSON E-PERSON O O O
+3767,Sentence:3991,tok 19: B never closed (next entity starts),په دې میچ کې انګلستان د ټاس ګټلو وروسته لومړی بیټنګ غوره کړ، او د جو روټ سلیزې، او معین علي بین سټوکس او ګیري بېلنس نیمو سلیزو په مرسته یې د لومړۍ اننګز مجموعي سکور 430 رنونو ته ورسوه.,O O O O S-LOCATION O O O O O O O O O O B-PERSON E-PERSON O O B-PERSON O B-PERSON E-PERSON O B-PERSON E-PERSON O O O O O O O O O O S-NUMBER O O O
+3781,Sentence:4005,tok 9: E without matching B,یادونه: جنوبي افریقا د بنګله‌دېش په سفر کې د T<NUMBER>20 سیالیو لړۍ 2–0 ګټلې ده.,O B-LOCATION E-LOCATION O S-LOCATION O O O O E-NUMBER O O O O O
+3802,Sentence:4026,tok 2: B never closed (next entity starts) | tok 4: B never closed (next entity starts),هغه پر محمد عرفان راحت علي او محمد حفیظ ډېر سخت باران وکړ.,O O B-PERSON O B-PERSON O O B-PERSON E-PERSON O O O O
+3806,Sentence:4030,tok 0: B never closed (next entity starts) | tok 9: B never closed (next entity starts),محمد رضوان کله چې د شعیب ملک ویکټ د ۳۷ م اوور په ترڅ کې ولوېده، میدان ته راغی، او دا وخت د پاکستان سکور ۱۷۸ رنونه وو.,B-PERSON O O O O B-PERSON E-PERSON O O B-NUMBER O O O O O O O O O O O O O O S-NUMBER O O
+3813,Sentence:4037,tok 0: B never closed (next entity starts),احمد شهزاد کله چې یې د تشارا پریرا په یوه اوور کې درې څلوري ووهل، نو بیا یې د خپل لومړي ون ډی انټرنیشنل لوبې کوونکي پاثیرانا په بال ویکټ له لاسه ورکړه.,B-PERSON O O O O O B-PERSON E-PERSON O O O O O O O O O O O O O O O O O O S-PERSON O O O O O O
+3835,Sentence:4059,tok 8: B never closed (next entity starts),تر دې وړاندې، د سریلانکا اوپنران، دلشان او کوشل پریرا ونه توانېدل چې ښه پیل ورکړي، او د ۴۲ رنونو پر سکور یې دوه ویکټې له لاسه ورکړې.,O O O O S-LOCATION O S-PERSON O B-PERSON O O O O O O O O O S-NUMBER O O O O O O O O O
+3836,Sentence:4060,tok 2: B never closed (next entity starts),دلشان یوازې ۱۴ ، او کوشل پریرا ۲۰ رنونه جوړ کړل، دواړه د انور علي شکار شول.,S-PERSON O B-NUMBER O B-PERSON E-PERSON S-NUMBER O O O O O B-PERSON E-PERSON O O
+3838,Sentence:4062,tok 7: B never closed (next entity starts),څلورم لوبغاړی چې آؤټ شو، د ټیم کپتان انجیلو میتھیوز و، او له هغه وروسته د سریلانکا ټیم له لوبې بهر شو، او ویکټې یې یوه په بلې پسې پرېوتې.,O O O O O O O B-DESIGNATION B-PERSON E-PERSON O O O O O O S-LOCATION O O O O O O O O O O O O O
+3840,Sentence:4064,tok 13: B never closed (sentence ends),په خپله لومړۍ یو ورځنۍ لوبه کې برخه اخیستونکو لوبغاړو، عماد وسیم او انور علي دوه ـ دوه ویکټې ترلاسه کړې.,O O O O O O O O O O B-PERSON E-PERSON O B-PERSON O O O O O O O
+3869,Sentence:4093,tok 11: B never closed (sentence ends),د سریلانکا له خوا، یواځې خپله دوهمه لوبه کوونکی آف سپینر، تھرندو کوشل,O S-LOCATION O O O O S-NUMBER O O O O B-PERSON O
+3871,Sentence:4095,tok 11: B never closed (next entity starts),په کولمبو ټیسټ کې، له مخکې نه له ستونزو سره مخ پاکستاني ټیم اوس له خپل مهم تېز بالر وهاب ریاض څخه هم بې برخې شوی دی.,O S-LOCATION O O O O O O O O O B-PERSON O O O O O O O B-PERSON E-PERSON O O O O O O
+3872,Sentence:4096,tok 0: B never closed (sentence ends),وهاب ریاض چې د پنجشنبې په ورځ د بیټینګ پر مهال د چپ لاس پر لور توپ لګېدلی و،,B-PERSON O O O O O O O O O O O O O O O O O O
+3929,Sentence:4153,tok 0: B never closed (next entity starts) | tok 6: B never closed (next entity starts) | tok 8: B never closed (next entity starts),یورپیئن کلب ایسوسی ایشن چې پکې مانچیسټر یونایټډ لیورپول بارسیلونا او بیئرن میونخ شامل دي.,B-ORGANIZATION O O O O O B-ORGANIZATION O B-ORGANIZATION S-ORGANIZATION O B-ORGANIZATION E-ORGANIZATION O O
