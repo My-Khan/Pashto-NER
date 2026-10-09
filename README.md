@@ -8,7 +8,7 @@ The release contains the annotated Pashto sentences.
 
 | | |
 |---|---|
-| Language / domain | Pashto, news text (BBC Pashto and VOA Pashto) |
+| Language / domain | Pashto, news text|
 | Sentences / tokens / entities | 3,717 / 98,867 / 8,763 |
 | Entity types (7) | PERSON, LOCATION, ORGANIZATION, DESIGNATION, NUMBER, DATE, TIME |
 | Tagging scheme | BIOES, 29 labels (flat annotation; nested entities are not annotated) |
