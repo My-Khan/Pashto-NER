@@ -1,16 +1,24 @@
+
 cff-version: 1.2.0
-message: "If you use this corpus or code, please cite the paper and this archived release."
+message: "If you use this dataset or code, please cite the associated research paper and archived release."
 title: "Bridging the Resource Gap: A Multi-Paradigm Benchmark for Named Entity Recognition in Low Resource Language"
 type: dataset
 authors:
-Wahab Khan1,2 ,Abdullah Khan1,  Mazliham Bin Mohd Su'ud2 , Aurangzeb Khan1,2, Muhammad Mansoor Alam2,3 , Rafiul Haq4 , Ihsanullah Khan2
-1Faculty of Computing and Informatics, MMU Cyberjaya Malaysia
-2Department of Computer Science, University of Science and Technology, Bannu, PK 28100
-3Faculty of Computing, Riphah International University Islamabad, Pakistan
-4College of Intelligence and Computing, Tianjin University, Tianjin, 300350 China
-
+  - name: "Wahab Khan"
+    affiliation: "University of Science and Technology, Bannu, Pakistan; Multimedia University, Malaysia"
+  - name: "Abdullah Khan"
+    affiliation: "Multimedia University, Malaysia"
+  - name: "Mazliham Bin Mohd Su'ud"
+    affiliation: "Multimedia University, Malaysia"
+  - name: "Aurangzeb Khan"
+    affiliation: "Multimedia University, Malaysia; University of Science and Technology, Bannu, Pakistan"
+  - name: "Muhammad Mansoor Alam"
+    affiliation: "University of Science and Technology, Bannu, Pakistan; Riphah International University, Islamabad, Pakistan"
+  - name: "Rafiul Haq"
+    affiliation: "Tianjin University, China"
+  - name: "Isanullah Khan"
+    affiliation: "University of Science and Technology, Bannu, Pakistan"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
-license: "[licence identifier]"
-repository-code: "[https://github.com/USER/REPO]"
-doi: "[10.5281/zenodo.XXXXXXX]"
+date-released: "2026-10-09"
+license: "MIT"
+repository-code: "https://github.com/My-Khan/Pashto-NER"
