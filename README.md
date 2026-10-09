@@ -47,8 +47,8 @@ To retrain the models, run `code/01_prepare_data.py` on the raw annotations (see
 ## Licence
 
 * Code: [choose, e.g. MIT]
-* Annotations and corpus: [choose, e.g. CC BY 4.0 or CC BY-NC 4.0, depending on the BBC / VOA terms]
-* Source texts: [state the terms of BBC Pashto and VOA Pashto and what is redistributed]
+* Annotations and corpus: [choose, e.g. CC BY 4.0 or CC BY-NC 4.0]
+* Source texts: []
 
 ## Citation
 
